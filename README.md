@@ -50,7 +50,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Implementación de un programa que juega a la batalla naval. En este proyecto se aplican conceptos básicos de algoritmos y estructuras de datos, implementando y utilizando pilas y colas.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C++.
 
 > [!NOTE]
@@ -62,7 +62,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Implementación de un programa que ordena alfabéticamente un archivo de texto con palabras, las cuales algunas pueden estar repetidas y otras no, generando otro archivo de texto con dichas palabras ya ordenadas. En este se utilizando arboles n-arios y se implementan distintos algoritmos de ordenamiento.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C++.
 
 > [!NOTE]
@@ -74,7 +74,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Implementación de un programa que planifica el vuelo de un drone para que llegue hasta los puntos donde hay malezas y aplique un herbicida siguiendo un camino que minimice la cantidad de metros recorridos. En este proyecto se aplican conceptos básicos de grafos, utilizando grafos dirigidos se implementa un algoritmo para encontrar el camino óptimo que pasa por todos los puntos (problema del viajero).
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C++.
 
 > [!NOTE]
@@ -86,7 +86,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Simple repaso de herramientas básicas de C. Este proyecto tiene como objetivo revisar algunos conceptos básicos del lenguaje.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -98,7 +98,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se aplican más características básicas del lenguaje C y las herramientas de GNU/Linux. Este proyecto tiene como objetivo sentar las bases del diseño e implementación de librerías estáticas y dinámicas.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -110,7 +110,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se aplican más características básicas del lenguaje C y las herramientas de GNU/Linux. Este proyecto tiene como objetivo utilizar mecanismos de mapeo de memoria y trabajar con archivos binarios.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -122,7 +122,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se implementa una Shell para linux que implementa distintas funcionalidades donde se aplican mecanismos de creación de procesos, concurrencia e IPC.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -134,7 +134,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se amplían las funcionalidades de la Shell implementada en el proyecto anterior. Se aplican mecanismos de creación de procesos, concurrencia e IPC. En esta shell se aplican conceptos como *pipelines* de ejecución, control de señales, redirección de entradas y salidas, etc.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -146,7 +146,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se implementa un sistema de gestión clasico de productores y consumidores. Este proyecto tieme como objetivo familiarizarse con la programación concurrente en Java.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en Java.
 
 > [!NOTE]
@@ -158,7 +158,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se implementa un sistema de comunicación cliente / servidor utilizando distintos mecanismos de IPC. Este proyecto tieme como objetivo diseñar e implementar un sistema en donde multiples clientes envian mensajes a un mismo servidor a traves de distintos mecanismos IPC (*pipe*, *FIFO*, *message queue*, etc.). 
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -170,7 +170,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se optimiza un programa básico de procesamiento de imágenes. Este proyecto tieme como objetivo utilizar herramientas para dentificar falencias y aplicar tecnicas de optimización de código para mejorar el rendimiento de un programa.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux. Utilización de la herramienta `gprof` para analisis de rendimiento.
 
 > [!NOTE]
@@ -182,7 +182,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Servidor web básico que permite incrementar un contador y ver su estado a través de dos *endpoints*. Este proyecto tieme como objetivo diseñar e implementar una API RESTful básica en C y un cliente capaz de consumirla.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux. Se hace uso del *framework* `Ulfius` para la implementación del servidor web.
 
 > [!NOTE]
@@ -194,7 +194,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se implementa una función en ensamblador que realiza la multiplicación de dos valor. Esta función es llamada desde un programa en C para realizar conversiones de divisas. Este proyecto tieme como objetivo familiarizarse con la interfaz entre C y ensamblador.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C y ASM utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -206,7 +206,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Se implementa el algoritmo de Dijkstra utilizando programación funcional. Este proyecto tieme como objetivo familiarizarse con la programación funcional en C++.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C++ utilizando paradigma de programación funcional.
 
 > [!NOTE]
@@ -218,7 +218,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: Simulación de envío de paquetes entre routers de una red utilizando el Algoritmo de Dijkstra para buscar el camino corto. Este proyecto tieme como objetivo familiarizarse con la programación orientada a objetos en Kotlin.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en Kotlin utilizando paradigma de programación orientada a objetos.
 
 > [!NOTE]
@@ -232,7 +232,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 
 - Descripción: En este trabajo se desarrolla un sistema de comunicación entre dos microcontroladores utilizando el protocolo UART para el envio y recepción de mensajes simples. El objetivo de este proyecto es familiarizarse con el desarrollo en sistemas embebidos utilizando ASM.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en ASM. Se utiliza el microcontrolador `PIC16F887` para el control del sistema. Se utiliza un teclado matricial `4x4` para la entrada de datos. Se implementan 4 displays de 7 segmentos multiplexado para la visualización de la información.
 
 > [!NOTE]
@@ -245,7 +245,7 @@ Estudiante de Ingeniería en Computación apasionado por la tecnología y el des
 - Descripción: En este trabajo se desarrolla una estación de carga de alimento para mascotas, pensado para utilizarse dentro del hogar. El dispositivo, cuenta con una celda de carga la cual permite sensar el peso que se encuentra en el recipiente de alimento de la mascota para poder rellenarlo, cuando este caiga por debajo de 10 [grs], hasta un nivel previamente establecido por el usuario. Por otro lado, posee un sensor de nivel de agua que permite determinar el estado del recipiente de
 hidratación de la mascota. El usuario puede llevar un control de la información adquirida por los distintos sensores a través de una aplicación de celular con conectividad bluetooth. La aplicación, también le permite al usuario establecer el peso de recarga y le brinda otras funcionalidades de control. Además, como alternativa a la aplicación, el dispositivo cuenta con un teclado matricial que permite establecer la configuración del mismo. El objetivo de este proyecto es diseñar e implementar un sistema completo sobre el microcontrolador `LPC1769` utilizando distintos sensores y actuadores.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C. Se utiliza el microcontrolador `LPC1769` para el control del sistema. Se utiliza el sensor de nivel de agua `HW-038`, una celda de carga generica de hasta 20 Kg con un módulo conversor analógico-digital de 24 bits más puente wheatstone `HX711`. Se utiliza el módulo bluetooth `HC-05` para la comunicación con la aplicación de celular. Se utiliza el teclado matricial `4x4` para la configuración del sistema. Motor paso a paso `28BYJ-48` y driver de corriente `SBT0811`.
 
 > [!NOTE]
@@ -257,7 +257,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: Se implementa un sistema de comunicación cliente / servidor utilizando sockets. Este proyecto tieme como objetivo diseñar e implementar un sistema en donde multiples clientes envian mensajes a un mismo servidor a traves de distintos tipos de scokets (*IPV4*, *IPV6*, *UNIX*, etc.).
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
 > [!NOTE]
@@ -269,7 +269,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: Se implementa un programa básico de procesamiento de imágenes. Este proyecto tieme como objetivo diseñar e implementar un programa que permita aplicar un filtro a una imagen en formato `GeoTiff` de entrada utilizando tecnicas de programación paralela.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C utilizando las herramientas de GNU/Linux. Se hace uso de la librearía `OpenMP` para programación paralela. Se utiliza la libreria `GDAL` para la manipulación de imágenes `GeoTiff`.
 
 > [!NOTE]
@@ -281,7 +281,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: Implementa dos servicios web básicos uno para el manejo de usuarios y otro para el registro de procesos. Además, se generan los arhcivos y configuraciones necesarias para correr sobre linux con Systemd y generar un servidor web con Nginx. Este proyecto tieme como objetivo diseñar e implementar una API RESTful básica en Go y configurar un servidor web con Nginx.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en Go utilizando las herramientas de GNU/Linux. Se hace uso del *framework* `Gin` para la implementación del servidor web. Se utiliza `Nginx` como servidor web y `Systemd` para la configuración del servicio. Además, se implementa un servidor DNS utilizando `Bind9`. Uso de `SQLite` como base de datos.
 
 > [!NOTE]
@@ -293,7 +293,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: En este proyecto se desarrolló una Rest API para el manejo de un plan de comidas. El *backend* consiste en manejar una base de datos que permite almacenar ingredientes, recetas y planes alimenticios.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en Rust. Se hace uso del *framework* `Rocket` para la implementación del servidor web. Uso de `MySQL` como base de datos.
 
 > [!NOTE]
@@ -305,7 +305,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: Aplicación de un sistema operativo de tiempo real en un sistema embebido. Simulación de un sistema de control de temperatura con un filtro pasa bajos. Comunicación UART con una computadora para visualizar el estado del sistema y cambiar el coeficiente de filtrado. El proyecto tiene como objetivo familiarizarse con el uso de un sistema operativo de tiempo real en los sistemas embebidos.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C. Se utiliza el sistema operativo de tiempo real `FreeRTOS`. Se utiliza el simulador `QEMU` para la simulación del sistema embebido. Se emula el sistema embebido `Stellaris LM3S811`.
 
 > [!NOTE]
@@ -319,7 +319,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: En este trabajo se desarrolla un sistema de gestión para gimnasios. El sistema permite llevar un control de los clientes, los planes que poseen, las clases a las que asisten, etc. El objetivo de este proyecto es diseñar e implementar un sistema completo utilizando buenas practicas de desarrollo de software como integración continua, pruebas unitarias, documentación, etc.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C# utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
 > [!NOTE]
@@ -331,7 +331,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: Implementación de un modulo para el kernel de Linux que permite la lectura de distintos sensores por medio de una interfaz de puerto serie. También se implementa una aplicación a nivel de usuario que hace uso del driver. El objetivo de este proyecto es familiarizarse con el desarrollo de módulos para el kernel de Linux.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en C y en C# (cliente) utilizando las herramientas de GNU/Linux. Se utiliza una `Raspberry Pi 4` como sistema embebido con el sistema operativo `Raspbian` para realizar las pruebas. Los sensores utilizados son un `TFMINI` y un `DHT11`. Para la comunicación entre el sistema embebido y la computadora se utiliza un `CP210x`.
 
 > [!NOTE]
@@ -343,7 +343,7 @@ hidratación de la mascota. El usuario puede llevar un control de la informació
 
 - Descripción: En este trabajo se diseña e implementa un procesador MIPS simplificado. El objetivo de este proyecto es familiarizarse con la arquitectura de un procesador.
 
-> [!INFO]
+> [!IMPORTANT]
 > Desarrollado en Verilog. Se utiliza la placa de desarrollo `Basys 3`. Interfaz de usuario desarrollada en Python.
 
 > [!NOTE]
