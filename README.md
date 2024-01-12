@@ -55,104 +55,104 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 ### Simples
 
-#### [Práctica de algoritmos y estructura de datos en C++ (2021)](https://github.com/francobottini99/PR-AYED-2021.git)
+- #### [Práctica de algoritmos y estructura de datos en C++ (2021)](https://github.com/francobottini99/PR-AYED-2021.git)
 
-- Fecha: 05/04/2021 - 15/04/2021
+    - Fecha: 05/04/2021 - 15/04/2021
 
-- Descripción: Este repositorio contiene un programa en C++ que simula el juego de la "Batalla Naval". El juego consiste en un tablero de 10x10 casilleros donde se posicionan 10 barcos de uno a cuatro casilleros, ya sea en forma horizontal o vertical. El objetivo es hundir todos los barcos a través de lanzamientos de "bombas" en posiciones específicas. En este proyecto se aplican conceptos básicos de algoritmos y estructuras de datos, implementando y utilizando pilas y colas.
+    - Descripción: Este repositorio contiene un programa en C++ que simula el juego de la "Batalla Naval". El juego consiste en un tablero de 10x10 casilleros donde se posicionan 10 barcos de uno a cuatro casilleros, ya sea en forma horizontal o vertical. El objetivo es hundir todos los barcos a través de lanzamientos de "bombas" en posiciones específicas. En este proyecto se aplican conceptos básicos de algoritmos y estructuras de datos, implementando y utilizando pilas y colas.
 
-> [!NOTE]
-> Desarrollado en C++.
+    > [!NOTE]
+    > Desarrollado en C++.
 
-#### [Práctica con arboles n-arios en C++ (2021)](https://github.com/francobottini99/PR-TREES-2021.git)
+- #### [Práctica con arboles n-arios en C++ (2021)](https://github.com/francobottini99/PR-TREES-2021.git)
 
-- Fecha: 15/05/2021 - 29/05/2021
+    - Fecha: 15/05/2021 - 29/05/2021
 
-- Descripción: Este repositorio contiene un programa en C++ que ordena alfabéticamente un archivo de texto con palabras, algunas de las cuales pueden estar repetidas. El resultado se guarda en otro archivo de texto con las palabras ordenadas junto con sus repeticiones. En este proyecto se utiliza un árbol n-ario y luego se implementa un algoritmo de ordenamiento sobre el mismo.
+    - Descripción: Este repositorio contiene un programa en C++ que ordena alfabéticamente un archivo de texto con palabras, algunas de las cuales pueden estar repetidas. El resultado se guarda en otro archivo de texto con las palabras ordenadas junto con sus repeticiones. En este proyecto se utiliza un árbol n-ario y luego se implementa un algoritmo de ordenamiento sobre el mismo.
 
-> [!NOTE]
-> Desarrollado en C++.
+    > [!NOTE]
+    > Desarrollado en C++.
 
-#### [Práctica con grafos en C++ (2021)](https://github.com/francobottini99/PR-GRAPHS-2021.git)
+- #### [Práctica con grafos en C++ (2021)](https://github.com/francobottini99/PR-GRAPHS-2021.git)
 
-- Fecha: 05/06/2021 - 19/06/2021
+    - Fecha: 05/06/2021 - 19/06/2021
 
-- Descripción: Este proyecto tiene como objetivo planificar el vuelo de un dron que llegue hasta los puntos donde hay malezas y aplique un herbicida. Se logra utilizando un grafo para representar la disposición de los cultivos, malezas y barreras en el terreno. En este repositorio se utilizan grafos aleatorios y se implementa un algoritmo heurístico para encontrar Ciclos Hamiltonianos en los mismos.
+    - Descripción: Este proyecto tiene como objetivo planificar el vuelo de un dron que llegue hasta los puntos donde hay malezas y aplique un herbicida. Se logra utilizando un grafo para representar la disposición de los cultivos, malezas y barreras en el terreno. En este repositorio se utilizan grafos aleatorios y se implementa un algoritmo heurístico para encontrar Ciclos Hamiltonianos en los mismos.
 
-> [!NOTE]
-> Desarrollado en C++.
+    > [!NOTE]
+    > Desarrollado en C++.
 
-#### [Práctica de programación concurrente en Java (2022)](https://github.com/francobottini99/PR-CONCURRENT-2022.git)
+- #### [Práctica de programación concurrente en Java (2022)](https://github.com/francobottini99/PR-CONCURRENT-2022.git)
 
-- Fecha: 15/04/2022 - 24/04/2022
+    - Fecha: 15/04/2022 - 24/04/2022
 
-- Descripción: El proyecto aborda un sistema de adquisición de datos concurrente que incluye dos buffers y tres tipos de actores: Creadores de Datos, Revisores de Datos y Consumidores de Datos. El ciclo de operación implica la creación, revisión y consumo de datos. Este proyecto tieme como objetivo familiarizarse con los conceptos de la programación concurrente.
+    - Descripción: El proyecto aborda un sistema de adquisición de datos concurrente que incluye dos buffers y tres tipos de actores: Creadores de Datos, Revisores de Datos y Consumidores de Datos. El ciclo de operación implica la creación, revisión y consumo de datos. Este proyecto tieme como objetivo familiarizarse con los conceptos de la programación concurrente.
 
-> [!NOTE]
-> Desarrollado en Java.
+    > [!NOTE]
+    > Desarrollado en Java.
 
-#### [Práctica con el lenguaje C y las herramientas de GNU/Linux #1 (2022)](https://github.com/francobottini99/PR-CLINUX1-2022.git)
+- #### [Práctica con el lenguaje C y las herramientas de GNU/Linux #1 (2022)](https://github.com/francobottini99/PR-CLINUX1-2022.git)
 
-- Fecha: 23/08/2022 - 27/08/2022
+    - Fecha: 23/08/2022 - 27/08/2022
 
-- Descripción: Este repositorio tiene como objetivo repasar conceptos básicos del lenguaje C, incluyendo el manejo de strings, arreglos, y estructuras.
+    - Descripción: Este repositorio tiene como objetivo repasar conceptos básicos del lenguaje C, incluyendo el manejo de strings, arreglos, y estructuras.
 
-> [!NOTE]
-> Desarrollado en C utilizando las herramientas de GNU/Linux.
+    > [!NOTE]
+    > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Práctica con el lenguaje C y las herramientas de GNU/Linux #2 (2022)](https://github.com/francobottini99/PR-CLINUX2-2022.git)
+- #### [Práctica con el lenguaje C y las herramientas de GNU/Linux #2 (2022)](https://github.com/francobottini99/PR-CLINUX2-2022.git)
 
-- Fecha: 09/09/2022 - 12/09/2022
+    - Fecha: 09/09/2022 - 12/09/2022
 
-- Descripción: Este repositorio tiene como objetivo familiarizarse con el diseño e implementación de librerías estáticas y dinámicas en el entorno de desarrollo GNU Toolchain y Linux Software. Se realizarán actividades que involucran el manejo de command line arguments, la implementación de una librería estática (cJSON) y una librería dinámica actuando como _plugin_.
+    - Descripción: Este repositorio tiene como objetivo familiarizarse con el diseño e implementación de librerías estáticas y dinámicas en el entorno de desarrollo GNU Toolchain y Linux Software. Se realizarán actividades que involucran el manejo de command line arguments, la implementación de una librería estática (cJSON) y una librería dinámica actuando como _plugin_.
 
-> [!NOTE]
-> Desarrollado en C utilizando las herramientas de GNU/Linux.
+    > [!NOTE]
+    > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Práctica con el lenguaje C y las herramientas de GNU/Linux #3 (2022)](https://github.com/francobottini99/PR-CLINUX3-2022.git)
+- #### [Práctica con el lenguaje C y las herramientas de GNU/Linux #3 (2022)](https://github.com/francobottini99/PR-CLINUX3-2022.git)
 
-- Fecha: 04/11/2022 - 07/11/2022
+    - Fecha: 04/11/2022 - 07/11/2022
 
-- Descripción: Este repositorio aborda la tarea de mapeo de memoria en el contexto de un programa en lenguaje C ejecutado en GNU/Linux.
+    - Descripción: Este repositorio aborda la tarea de mapeo de memoria en el contexto de un programa en lenguaje C ejecutado en GNU/Linux.
 
-> [!NOTE]
-> Desarrollado en C utilizando las herramientas de GNU/Linux.
+    > [!NOTE]
+    > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Práctica de optimización de programas en C (2023)](https://github.com/francobottini99/PR-OPTIM-2023.git)
+- #### [Práctica de optimización de programas en C (2023)](https://github.com/francobottini99/PR-OPTIM-2023.git)
 
-- Fecha: 05/05/2023 - 17/05/2023
+    - Fecha: 05/05/2023 - 17/05/2023
 
-- Descripción: Este repositorio abora la optimización de un programa que implementa una operación de convolución en una matriz bidimensional.
+    - Descripción: Este repositorio abora la optimización de un programa que implementa una operación de convolución en una matriz bidimensional.
 
-> [!NOTE]
-> Desarrollado en C utilizando las herramientas de GNU/Linux. Utilización de la herramienta `gprof` para analisis de rendimiento.
+    > [!NOTE]
+    > Desarrollado en C utilizando las herramientas de GNU/Linux. Utilización de la herramienta `gprof` para analisis de rendimiento.
 
-#### [Práctica de interfaz entre C y ASM (2023)](https://github.com/francobottini99/PR-INTFCASM-2023.git)
+- #### [Práctica de interfaz entre C y ASM (2023)](https://github.com/francobottini99/PR-INTFCASM-2023.git)
 
-- Fecha: 08/04/2023 - 17/04/2023
+    - Fecha: 08/04/2023 - 17/04/2023
 
-- Descripción: Se implementa una función en ensamblador que realiza la multiplicación de dos valor. Esta función es llamada desde un programa en C para realizar conversiones de divisas de las cotizaciones de distintas criptomonedas optenidas de una API REST. Este proyecto tieme como objetivo familiarizarse con la interfaz entre C y ensamblador.
+    - Descripción: Se implementa una función en ensamblador que realiza la multiplicación de dos valor. Esta función es llamada desde un programa en C para realizar conversiones de divisas de las cotizaciones de distintas criptomonedas optenidas de una API REST. Este proyecto tieme como objetivo familiarizarse con la interfaz entre C y ensamblador.
 
-> [!NOTE]
-> Desarrollado en C y ASM utilizando las herramientas de GNU/Linux.
+    > [!NOTE]
+    > Desarrollado en C y ASM utilizando las herramientas de GNU/Linux.
 
-#### [Práctica de programación funcional en C++ (2023)](https://github.com/francobottini99/PR-PARADFUNC-2023.git)
+- #### [Práctica de programación funcional en C++ (2023)](https://github.com/francobottini99/PR-PARADFUNC-2023.git)
 
-- Fecha: 26/11/2023 - 30/11/2023
+    - Fecha: 26/11/2023 - 30/11/2023
 
-- Descripción: Se implementa el algoritmo de Dijkstra utilizando programación funcional. Este proyecto tieme como objetivo familiarizarse con el paradigma de la programación funcional.
+    - Descripción: Se implementa el algoritmo de Dijkstra utilizando programación funcional. Este proyecto tieme como objetivo familiarizarse con el paradigma de la programación funcional.
 
-> [!NOTE]
-> Desarrollado en C++ utilizando paradigma de programación funcional.
+    > [!NOTE]
+    > Desarrollado en C++ utilizando paradigma de programación funcional.
 
-### [Práctica de programación orientada a objetos en Kotlin (2023)](https://github.com/francobottini99/PR-KOTLIN-2023.git)
+- ### [Práctica de programación orientada a objetos en Kotlin (2023)](https://github.com/francobottini99/PR-KOTLIN-2023.git)
 
-- Fecha: 24/11/2023 - 02/12/2023
+    - Fecha: 24/11/2023 - 02/12/2023
 
-- Descripción: En este repositorio se realizó la simulación del envío de paquetes entre routers de una red. A su vez, se utilizo el algoritmo de Dijkstra para buscar el camino más corto entre un router de origen y otro de destino teniendo en cuenta el ancho de banda de las conexiones. Este proyecto tieme como objetivo familiarizarse con la programación orientada a objetos en Kotlin.
+    - Descripción: En este repositorio se realizó la simulación del envío de paquetes entre routers de una red. A su vez, se utilizo el algoritmo de Dijkstra para buscar el camino más corto entre un router de origen y otro de destino teniendo en cuenta el ancho de banda de las conexiones. Este proyecto tieme como objetivo familiarizarse con la programación orientada a objetos en Kotlin.
 
-> [!NOTE]
-> Desarrollado en Kotlin utilizando paradigma de programación orientada a objetos.
+    > [!NOTE]
+    > Desarrollado en Kotlin utilizando paradigma de programación orientada a objetos.
 
 ### Interesantes
 
