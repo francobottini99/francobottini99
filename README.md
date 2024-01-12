@@ -7,7 +7,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 ## Índice
 
 - [Proyectos](#proyectos)
-    - [Básicos](#básicos)
+    - [Simples](#básicos)
         - [Práctica de algoritmos y estructura de datos en C++ (2021)](#práctica-de-algoritmos-y-estructura-de-datos-en-c-2021)
         - [Práctica con arboles n-arios en C++ (2021)](#práctica-con-arboles-n-arios-en-c-2021)
         - [Práctica con grafos en C++ (2021)](#práctica-con-grafos-en-c-2021)
@@ -53,7 +53,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
     
 ## Proyectos
 
-### Básicos
+### Simples
 
 #### [Práctica de algoritmos y estructura de datos en C++ (2021)](https://github.com/francobottini99/PR-AYED-2021.git)
 
