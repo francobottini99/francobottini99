@@ -55,8 +55,6 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 ### Simples 
 
----
-
 #### [Práctica de algoritmos y estructura de datos en C++ (2021)](https://github.com/francobottini99/PR-AYED-2021.git)
 
 - Fecha: 05/04/2021 - 15/04/2021
@@ -65,8 +63,6 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 > [!NOTE]
 > Desarrollado en C++.
-
----
 
 #### [Práctica con arboles n-arios en C++ (2021)](https://github.com/francobottini99/PR-TREES-2021.git)
 
