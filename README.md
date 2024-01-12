@@ -1,6 +1,6 @@
 # Portfolio de Proyectos
 
-¡Hola! Soy Franco Nicolás Bottini, un estudiante apasionado de Ingeniería en Computación, con un historial lleno de proyectos interesantes. Desde joven, me sumergí en el mundo de la tecnología y el desarrollo de software, construyendo una amplia gama de proyectos personales, profesionales y académicos.
+¡Hola! Soy Franco Nicolás Bottini, un estudiante apasionado de Ingeniería en Computación, a punto de concluir mi carrera con una sólida experiencia en el mundo de la tecnología y el desarrollo de software. Desde temprana edad, me sumergí en este fascinante universo, construyendo una amplia gama de proyectos que abarcan lo personal, profesional y académico.
 
 En este documento, comparto una selección de algunos de los proyectos más destacados en los que he trabajado a lo largo de mi trayectoria. ¡Echa un vistazo y descubre la diversidad de mis experiencias en el ámbito tecnológico y de desarrollo!
 
@@ -156,21 +156,20 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 ### Interesantes
 
-#### [Desarrollo de un sistema de comunicación entre microcontroladres en ASM (2021)]()
+#### [Desarrollo de un sistema de comunicación entre microcontroladres en ASM (2021)](https://github.com/francobottini99/SIS-COMPICASM-2021.git)
 
 - Fecha: 01/06/2021 - 25/06/2021
 
-- Descripción: En este trabajo se desarrolla un sistema de comunicación entre dos microcontroladores utilizando el protocolo UART para el envio y recepción de mensajes simples. El objetivo de este proyecto es familiarizarse con el desarrollo en sistemas embebidos utilizando ASM.
+- Descripción: Este repositorio, escrito en lenguaje ensamblador, consiste en la implementación de un sistema de comunicación UART entre dos microcontroladores PIC16F887. Un microcontrolador actúa como emisor, mientras que el otro actúa como receptor. La comunicación se establece a través de transmisiones y recepciones de datos seriales, permitiendo la interacción entre ambos dispositivos. El objetivo de este proyecto es familiarizarse con el desarrollo en sistemas embebidos utilizando ASM.
 
 > [!NOTE]
 > Desarrollado en ASM. Se utiliza el microcontrolador `PIC16F887` para el control del sistema. Se utiliza un teclado matricial `4x4` para la entrada de datos. Se implementan 4 displays de 7 segmentos multiplexado para la visualización de la información.
 
-#### [Desarrollo de un sistema de alimentación automático para mascotas (2022)]()
+#### [Desarrollo de un sistema de alimentación automático para mascotas (2022)](https://github.com/francobottini99/SIS-ALIMLPC-2022.git)
 
 - Fecha: 22/10/2022 - 04/11/2022
 
-- Descripción: En este trabajo se desarrolla una estación de carga de alimento para mascotas, pensado para utilizarse dentro del hogar. El dispositivo, cuenta con una celda de carga la cual permite sensar el peso que se encuentra en el recipiente de alimento de la mascota para poder rellenarlo, cuando este caiga por debajo de 10 [grs], hasta un nivel previamente establecido por el usuario. Por otro lado, posee un sensor de nivel de agua que permite determinar el estado del recipiente de
-hidratación de la mascota. El usuario puede llevar un control de la información adquirida por los distintos sensores a través de una aplicación de celular con conectividad bluetooth. La aplicación, también le permite al usuario establecer el peso de recarga y le brinda otras funcionalidades de control. Además, como alternativa a la aplicación, el dispositivo cuenta con un teclado matricial que permite establecer la configuración del mismo. El objetivo de este proyecto es diseñar e implementar un sistema completo sobre el microcontrolador `LPC1769` utilizando distintos sensores y actuadores.
+- Descripción: Este repositorio consiste en el desarrollo de una estación de carga de alimento para mascotas, diseñada para su uso en el hogar. El dispositivo incorpora una celda de carga para medir el peso del recipiente de alimento y rellenarlo cuando el nivel caiga por debajo de 10 gramos, un sensor de nivel de agua para controlar la hidratación, y la capacidad de ser controlado a través de una aplicación móvil con conectividad Bluetooth.
 
 > [!NOTE]
 > Desarrollado en C. Se utiliza el microcontrolador `LPC1769` para el control del sistema. Se utiliza el sensor de nivel de agua `HW-038`, una celda de carga generica de hasta 20 Kg con un módulo conversor analógico-digital de 24 bits más puente wheatstone `HX711`. Se utiliza el módulo bluetooth `HC-05` para la comunicación con la aplicación de celular. Se utiliza el teclado matricial `4x4` para la configuración del sistema. Motor paso a paso `28BYJ-48` y driver de corriente `SBT0811`.
