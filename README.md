@@ -1,8 +1,8 @@
-# Portfolio de Proyectos
+# Portfolio
 
 ¡Hola! Soy Franco Nicolás Bottini, un estudiante apasionado de Ingeniería en Computación, a punto de concluir mi carrera con una sólida experiencia en el mundo de la tecnología y el desarrollo de software. Desde temprana edad, me sumergí en este fascinante universo, construyendo una amplia gama de proyectos que abarcan lo personal, profesional y académico.
 
-En este documento, comparto una selección de algunos de los proyectos más destacados en los que he trabajado a lo largo de mi trayectoria. ¡Echa un vistazo y descubre la diversidad de mis experiencias en el ámbito tecnológico y de desarrollo!
+En este documento, comparto una selección de algunos de los proyectos más destacados en los que he trabajado a lo largo de mi trayectoria.
 
 ## Índice
 
@@ -174,25 +174,25 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C. Se utiliza el microcontrolador `LPC1769` para el control del sistema. Se utiliza el sensor de nivel de agua `HW-038`, una celda de carga generica de hasta 20 Kg con un módulo conversor analógico-digital de 24 bits más puente wheatstone `HX711`. Se utiliza el módulo bluetooth `HC-05` para la comunicación con la aplicación de celular. Se utiliza el teclado matricial `4x4` para la configuración del sistema. Motor paso a paso `28BYJ-48` y driver de corriente `SBT0811`.
 
-#### [Desarrollo de una Shell simple para Linux #1 (2022)]()
+#### [Desarrollo de una Shell simple para Linux #1 (2022)](https://github.com/francobottini99/LINUXSHELL1-2022.git)
 
 - Fecha: 16/09/2022 - 01/10/2022
 
-- Descripción: Se implementa una Shell para linux que implementa distintas funcionalidades donde se aplican mecanismos de creación de procesos, concurrencia e IPC.
+- Descripción: Este proyecto implementa un intérprete de línea de comandos diseñado para ejecutarse en entornos GNU/Linux. El objetivo principal es proporcionar un shell interactivo con funcionalidades básicas y capacidad para ejecutar comandos internos, programas externos, y scripts en segundo plano.
 
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Desarrollo de una Shell simple para Linux #2 (2022)]()
+#### [Desarrollo de una Shell simple para Linux #2 (2022)](https://github.com/francobottini99/LINUXSHELL2-2022.git)
 
 - Fecha: 04/11/2022 - 07/11/2022
 
-- Descripción: Se amplían las funcionalidades de la Shell implementada en el proyecto anterior. Se aplican mecanismos de creación de procesos, concurrencia e IPC. En esta shell se aplican conceptos como *pipelines* de ejecución, control de señales, redirección de entradas y salidas, etc.
+- Descripción: Este proyecto es una extensión del intérprete de línea de comandos MyShell. El objetivo principal de este proyecto es ampliar las funcionalidades de MyShell, incorporando el manejo de señales, tuberías (pipes) y redirección de entrada/salida.
 
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Desarrollo de un Sistema de comunicación cliente / servidor en C #1 (2023)]()
+#### [Desarrollo de un Sistema de comunicación cliente / servidor en C #1 (2023)](https://github.com/francobottini99/LINUXCLIENTSERVER1-2023.git)
 
 - Fecha: 17/03/2023 - 31/03/2023
 
@@ -201,7 +201,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Desarrollo de un Sistema de comunicación cliente / servidor en C #2 (2023)]()
+#### [Desarrollo de un Sistema de comunicación cliente / servidor en C #2 (2023)](https://github.com/francobottini99/LINUXCLIENTSERVER2-2023.git)
 
 - Fecha: 01/04/2023 - 25/04/2023
 
@@ -210,16 +210,16 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Desarrollo de un programa simple de procesamiento de imágenes (2023)]()
+#### [Desarrollo de un programa simple de procesamiento de imágenes (2023)](https://github.com/francobottini99/PARALLELPROGRAM-2023.git)
 
 - Fecha: 09/05/2023 - 26/05/2023
 
 - Descripción: Se implementa un programa básico de procesamiento de imágenes. Este proyecto tieme como objetivo diseñar e implementar un programa que permita aplicar un filtro a una imagen en formato `GeoTiff` de entrada utilizando tecnicas de programación paralela.
 
 > [!NOTE]
-> Desarrollado en C utilizando las herramientas de GNU/Linux. Se hace uso de la librearía `OpenMP` para programación paralela. Se utiliza la libreria `GDAL` para la manipulación de imágenes `GeoTiff`.
+> Desarrollado en C utilizando las herramientas de GNU/Linux. Se hace uso de la librearía `OpenMPI` para programación paralela. Se utiliza la libreria `GDAL` para la manipulación de imágenes `GeoTiff`.
 
-#### [Desarrollo de una API REST simple en C (2023)]()
+#### [Desarrollo de una API REST simple en C (2023)](https://github.com/francobottini99/APIRESTC-2023.git)
 
 - Fecha: 25/05/2023 - 27/05/2023
 
@@ -228,25 +228,25 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux. Se hace uso del *framework* `Ulfius` para la implementación del servidor web.
 
-#### [Desarrollo de una API REST simple en Go (2023)]()
+#### [Desarrollo de una API REST simple en Go (2023)](https://github.com/francobottini99/APIRESTGO-2023.git)
 
 - Fecha: 26/05/2023 - 08/06/2023
 
-- Descripción: Implementa dos servicios web básicos uno para el manejo de usuarios y otro para el registro de procesos. Además, se generan los arhcivos y configuraciones necesarias para correr sobre linux con Systemd y generar un servidor web con Nginx. Este proyecto tieme como objetivo diseñar e implementar una API RESTful básica en Go y configurar un servidor web con Nginx.
+- Descripción: Implementa dos servicios web básicos uno para el manejo de usuarios y otro para el registro de procesos. Además, se generan los arhcivos y configuraciones necesarias para correr sobre linux con Systemd y generar un servidor web con Nginx. Este proyecto tieme como objetivo diseñar e implementar una API REST en Go y configurar un servidor web con Nginx.
 
 > [!NOTE]
 > Desarrollado en Go utilizando las herramientas de GNU/Linux. Se hace uso del *framework* `Gin` para la implementación del servidor web. Se utiliza `Nginx` como servidor web y `Systemd` para la configuración del servicio. Además, se implementa un servidor DNS utilizando `Bind9`. Uso de `SQLite` como base de datos.
 
-#### [Desarrollo de una API REST simple en Rust (2023)]()
+#### [Desarrollo de una API REST simple en Rust (2023)](https://github.com/francobottini99/APIRESTRUST-2023.git)
 
 - Fecha: 06/12/2023 - 15/12/2023
 
-- Descripción: En este proyecto se desarrolló una Rest API para el manejo de un plan de comidas. El *backend* consiste en manejar una base de datos que permite almacenar ingredientes, recetas y planes alimenticios.
+- Descripción: En este proyecto se desarrolló una REST API para el manejo de un plan de comidas. Este proyecto tieme como objetivo diseñar e implementar una API REST en Rust.
 
 > [!NOTE]
 > Desarrollado en Rust. Se hace uso del *framework* `Rocket` para la implementación del servidor web. Uso de `MySQL` como base de datos.
 
-#### [Desarrollo de un sistema de sensado utilizando RTOS (2024)]()
+#### [Desarrollo de un sistema de sensado utilizando RTOS (2024)](https://github.com/francobottini99/SIS-TEMPRTOS-2024.git)
 
 - Fecha: 02/01/2024 - 10/01/2024
 
