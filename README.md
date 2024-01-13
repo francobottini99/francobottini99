@@ -60,14 +60,15 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
     - Descripción: Este repositorio contiene un programa en C++ que simula el juego de la "Batalla Naval". El juego consiste en un tablero de 10x10 casilleros donde se posicionan 10 barcos de uno a cuatro casilleros, ya sea en forma horizontal o vertical. El objetivo es hundir todos los barcos a través de lanzamientos de "bombas" en posiciones específicas. En este proyecto se aplican conceptos básicos de algoritmos y estructuras de datos, implementando y utilizando pilas y colas.
     
-    > [!NOTE]
-    > Desarrollado en C++.
+> [!NOTE]
+> Desarrollado en C++.
 
-#### [Práctica con arboles n-arios en C++ (2021)](https://github.com/francobottini99/PR-TREES-2021.git)
+- [Práctica con arboles n-arios en C++ (2021)](https://github.com/francobottini99/PR-TREES-2021.git)
+    -
 
-- Fecha: 15/05/2021 - 29/05/2021
+    - Fecha: 15/05/2021 - 29/05/2021
 
-- Descripción: Este repositorio contiene un programa en C++ que ordena alfabéticamente un archivo de texto con palabras, algunas de las cuales pueden estar repetidas. El resultado se guarda en otro archivo de texto con las palabras ordenadas junto con sus repeticiones. En este proyecto se utiliza un árbol n-ario y luego se implementa un algoritmo de ordenamiento sobre el mismo.
+    - Descripción: Este repositorio contiene un programa en C++ que ordena alfabéticamente un archivo de texto con palabras, algunas de las cuales pueden estar repetidas. El resultado se guarda en otro archivo de texto con las palabras ordenadas junto con sus repeticiones. En este proyecto se utiliza un árbol n-ario y luego se implementa un algoritmo de ordenamiento sobre el mismo.
 
 > [!NOTE]
 > Desarrollado en C++.
