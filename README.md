@@ -51,18 +51,17 @@ En este documento, comparto una selección de algunos de los proyectos más dest
     - [Sistema de control para la carga automática de un mixer por medio de un chimango (2021)](#sistema-de-control-para-la-carga-automática-de-un-mixer-por-medio-de-un-chimango-2021)
     - [Detección de espectro en redes de radio cognitivas: optimización y análisis de umbrales (2022)](#detección-de-espectro-en-redes-de-radio-cognitivas-optimización-y-análisis-de-umbrales-2022)
     
-## Proyectos
+## Proyectos Simples 
 
-### Simples 
+- [Práctica de algoritmos y estructura de datos en C++ (2021)](https://github.com/francobottini99/PR-AYED-2021.git)
+    -
 
-#### [Práctica de algoritmos y estructura de datos en C++ (2021)](https://github.com/francobottini99/PR-AYED-2021.git)
+    - Fecha: 05/04/2021 - 15/04/2021
 
-- Fecha: 05/04/2021 - 15/04/2021
-
-- Descripción: Este repositorio contiene un programa en C++ que simula el juego de la "Batalla Naval". El juego consiste en un tablero de 10x10 casilleros donde se posicionan 10 barcos de uno a cuatro casilleros, ya sea en forma horizontal o vertical. El objetivo es hundir todos los barcos a través de lanzamientos de "bombas" en posiciones específicas. En este proyecto se aplican conceptos básicos de algoritmos y estructuras de datos, implementando y utilizando pilas y colas.
-
-> [!NOTE]
-> Desarrollado en C++.
+    - Descripción: Este repositorio contiene un programa en C++ que simula el juego de la "Batalla Naval". El juego consiste en un tablero de 10x10 casilleros donde se posicionan 10 barcos de uno a cuatro casilleros, ya sea en forma horizontal o vertical. El objetivo es hundir todos los barcos a través de lanzamientos de "bombas" en posiciones específicas. En este proyecto se aplican conceptos básicos de algoritmos y estructuras de datos, implementando y utilizando pilas y colas.
+    
+    > [!NOTE]
+    > Desarrollado en C++.
 
 #### [Práctica con arboles n-arios en C++ (2021)](https://github.com/francobottini99/PR-TREES-2021.git)
 
