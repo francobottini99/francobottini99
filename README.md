@@ -276,7 +276,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 ## Proyectos Destacados
 
-- [Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)]()
+- Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)
     -
 
     - **Fecha:** 11/06/2015 - 10/12/2016
@@ -286,7 +286,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
-- [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)]()
+- Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)
     -
 
     - **Fecha:** 02/01/2017 - 09/11/2017
@@ -296,7 +296,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
-- [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)]()
+- Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)
     -
 
     - **Fecha:** 12/01/2018 - 12/10/2018
@@ -306,7 +306,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El sistema de manejo por caravanas electrónicas se implementa utilizando `Arduino`.
 
-- [Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)]()
+- Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)
     -
 
     - **Fecha:** 09/04/2018 - 30/11/2018
@@ -316,7 +316,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C++, PHP y VB.NET. Se utiliza Arduino para el sistema de lectura de huellas dactilares. Se utiliza una base de datos `MySQL` para el almacenamiento de la información. Se utiliza `XAMPP` para el despliegue del servidor web y los scripts que permiten conectar el lector de huellas con la base de datos.
 
-- [Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)]()
+- Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)
     -
 
     - **Fecha:** 05/04/2019 - 16/03/2021
@@ -326,7 +326,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El despliegue del servidor se realiza en un servidor web con `IIS` y `Windows Server 2012 R2`.
 
-- [Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)]()
+- Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)
     -
 
     - **Fecha:** 05/01/2022 - 30/03/2022
@@ -341,12 +341,12 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C# utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
-- [Desarrollo de un sistema de control de llenado para un tanque de agua rural #2 (2022)]()
+- Desarrollo de un sistema de control de llenado para un tanque de agua rural #2 (2022)
     -
 
     - **Fecha:** 05/07/2022 - 03/08/2022
 
-- [Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)]()
+- Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)
     -
 
     - **Fecha:** 18/01/2023 - 02/03/2023
@@ -371,7 +371,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C y en C# (cliente) utilizando las herramientas de GNU/Linux. Se utiliza una `Raspberry Pi 4` como sistema embebido con el sistema operativo `Raspbian` para realizar las pruebas. Los sensores utilizados son un `TFMINI` y un `DHT11`. Para la comunicación entre el sistema embebido y la computadora se utiliza un `CP210x`.
 
-- [Desarrollo de un procesador MIPS simplificado para FPGA (2023)]()
+- Desarrollo de un procesador MIPS simplificado para FPGA (2023)
     -
 
     - **Fecha:** 13/11/2023 - 22/12/2023
