@@ -1,6 +1,6 @@
-# ¡Hola! Soy Franco Nicolás Bottini
+# ¡Hola! 👋
 
-Estudiante apasionado de Ingeniería en Computación, a punto de concluir mi carrera con una sólida experiencia en el mundo de la tecnología y el desarrollo de software. Desde temprana edad, me sumergí en este fascinante universo, construyendo una amplia gama de proyectos que abarcan lo personal, profesional y académico.
+Soy Franco Nicolás Bottini un estudiante apasionado de Ingeniería en Computación a punto de concluir mi carrera con una sólida experiencia en el mundo de la tecnología y el desarrollo de software. Desde temprana edad, me sumergí en este fascinante universo, construyendo una amplia gama de proyectos que abarcan lo personal, profesional y académico.
 
 En este documento, comparto una selección de algunos de los proyectos en los que he trabajado a lo largo de mi trayectoria.
 
@@ -42,7 +42,7 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
     - [Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)](#desarrollo-de-un-sistema-de-gestión-para-la-administración-de-una-institución-educativa-2023)
     - [Desarrollo de una balanza para el pesaje de ganado bovino (2023)](#desarrollo-de-una-balanza-para-el-pesaje-de-ganado-bovino-2023)
     - [Desarrollo de un modulo de kernel para Linux (2023)](#desarrollo-de-un-modulo-de-kernel-para-linux-2023)
-    - [Desarrollo de un procesador MIPS simplificado para FPGA (2023)](#desarrollo-de-un-procesador-mips-simplificado-para-fpga-2023)
+    - [Desarrollo de un procesador MIPS simplificado para una placa de desarrollo FPGA (2023)](#desarrollo-de-un-procesador-mips-simplificado-para-una-placa-de-desarrollo-fpga-2023)
 - [Publicaciones](#publicaciones)
     - [Estudio del impacto de ChatGPT en la enseñanza de materias introductorias a la programación (2023)](#estudio-del-impacto-de-chatgpt-en-la-enseñanza-de-materias-introductorias-a-la-programación-2023)
 - [Otros Ensayos](#otros-ensayos)
@@ -412,18 +412,15 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 > [!NOTE]
 > Desarrollado en C y en C# (cliente) utilizando las herramientas de GNU/Linux. Se utiliza una `Raspberry Pi 4` como sistema embebido con el sistema operativo `Raspbian` para realizar las pruebas. Los sensores utilizados son un `TFMINI` y un `DHT11`. Para la comunicación entre el sistema embebido y la computadora se utiliza un `CP210x`.
 
-- Desarrollo de un procesador MIPS simplificado para FPGA (2023)
+- [Desarrollo de un procesador MIPS simplificado para una placa de desarrollo FPGA (2023)](https://github.com/francobottini99/MIPSFPGA-2023.git)
     -
 
     - **Fecha:** 13/11/2023 - 22/12/2023
 
-    - **Descripción:** En este trabajo se diseña e implementa un procesador MIPS simplificado. El objetivo de este proyecto es familiarizarse con la arquitectura de un procesador.
+    - **Descripción:** implementación de una versión simplificada de un procesador **MIPS** segmentado en una placa de desarrollo **FPGA**. El procesador implementa un conjunto de instrucciones reducido y un pipeline de 5 etapas. El objetivo de este proyecto es familiarizarse con el diseño de procesadores.
 
 > [!NOTE]
 > Desarrollado en Verilog. Se utiliza la placa de desarrollo `Basys 3`. Interfaz de usuario desarrollada en Python.
-
-> [!WARNING]
-> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 ## Publicaciones
 
