@@ -286,6 +286,9 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
+
 - Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)
     -
 
@@ -295,6 +298,9 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
+
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)
     -
@@ -306,6 +312,9 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El sistema de manejo por caravanas electrónicas se implementa utilizando `Arduino`.
 
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
+
 - Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)
     -
 
@@ -315,6 +324,9 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 > [!NOTE]
 > Desarrollado en C++, PHP y VB.NET. Se utiliza Arduino para el sistema de lectura de huellas dactilares. Se utiliza una base de datos `MySQL` para el almacenamiento de la información. Se utiliza `XAMPP` para el despliegue del servidor web y los scripts que permiten conectar el lector de huellas con la base de datos.
+
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)
     -
@@ -326,15 +338,20 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El despliegue del servidor se realiza en un servidor web con `IIS`.
 
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
+
 - Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)
     -
 
     - **Fecha:** 05/01/2022 - 30/03/2022
 
-    - **Descripción:** Sistema automatizado de reabastecimiento de agua en producciones ganaderas de engorde a corral. El sistema controla en tiempo real el nivel de agua del tanque de abastecimiento de la producción, y envía en forma remota información al productor sobre el estado del mismo, éste recibe dicha información en una App de celular, y podrá actuar en consecuencia. Si el funcionamiento es normal, el sistema mantiene el nivel de agua dentro de los límites que establezcamos cómo parámetro, encendiendo y apagando la bomba alimentadora cuando los niveles llegan a dichos limites. Además el sistema cuenta con muchos mecanismos de seguridad y alertas  para salvaguardar la integridad de la bomba en caso de fallos.  Cada acción que implementa el sistema se informa, mediante conectividad a internet a la una aplicación Android para mantener al productor al tanto de todo lo que sucede.
+    - **Descripción:** Sistema automatizado de reabastecimiento de agua en producciones ganaderas de engorde a corral. El sistema controla en tiempo real el nivel de agua del tanque de abastecimiento de la producción, y envía en forma remota información al productor sobre el estado del mismo, éste recibe dicha información en una App de celular, y podrá actuar en consecuencia. Si el funcionamiento es normal, el sistema mantiene el nivel de agua dentro de los límites que establezcamos cómo parámetro, encendiendo y apagando la bomba alimentadora cuando los niveles llegan a dichos limites. Además el sistema cuenta con muchos mecanismos de seguridad y alertas  para salvaguardar la integridad de la bomba en caso de fallos. Cada acción que implementa el sistema se informa, mediante SMS a un celular.
 
 > [!NOTE]
-> El sistema esta dividido en dos dispositivos, el primero encargado del control de la bomba y el segundo cumple la función de gateway para subir la información a la nube. El software de ambos dispositivos esta desarrollado en C++ y se comunican entre ellos por medio de modulos de radiofrecuencia. El gateway consume una API para subir la información a la nube. El productor puede visualizar la información en una aplicación de celular desarrollada en Android. La información se almacena en una base de datos `MySQL` y se utiliza `IIS` para el despliegue del servidor web.
+> El sistema esta dividido en dos dispositivos, el primero encargado del control de la bomba y el segundo cumple la función de recibir SMS de control y enviar SMS de notificación del sistema. El software de ambos dispositivos esta desarrollado en C++ y se comunican entre ellos por medio de modulos de radiofrecuencia. 
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - [Desarrollo de un sistema de gestión para gimnasios (2022)](https://github.com/francobottini99/SIS-GYMCORE-2022.git)
     -
@@ -351,10 +368,13 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
     - **Fecha:** 05/07/2022 - 03/08/2022
 
-    - **Descripción:**
+    - **Descripción:** Segunda versión del sistema automatizado de reabastecimiento de agua en producciones ganaderas de engorde a corral. El sistema controla en tiempo real el nivel de agua del tanque de abastecimiento de la producción, y envía en forma remota información al productor sobre el estado del mismo, éste recibe dicha información en una App de celular, y podrá actuar en consecuencia. Si el funcionamiento es normal, el sistema mantiene el nivel de agua dentro de los límites que establezcamos cómo parámetro, encendiendo y apagando la bomba alimentadora cuando los niveles llegan a dichos limites. Además el sistema cuenta con muchos mecanismos de seguridad y alertas  para salvaguardar la integridad de la bomba en caso de fallos. Cada acción que implementa el sistema se informa, mediante conectividad a internet a la una aplicación Android para mantener al productor al tanto de todo lo que sucede. Se aplican otras mejoras respecto a la primera versión del sistema.
 
 > [!NOTE]
->
+> El sistema esta dividido en dos dispositivos, el primero encargado del control de la bomba y el segundo cumple la función de gateway para subir la información a la nube. El software de ambos dispositivos esta desarrollado en C++ y se comunican entre ellos por medio de modulos de radiofrecuencia. El gateway consume una API para subir la información a la nube. El productor puede visualizar la información en una aplicación de celular desarrollada en Android. La información se almacena en una base de datos `MySQL` y se utiliza `IIS` para el despliegue del servidor web.
+
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)
     -
@@ -366,15 +386,21 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C# utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
-- [Desarrollo de una balanza para el pesaje de ganado bovino (2023)]()
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
+
+- Desarrollo de una balanza para el pesaje de ganado bovino (2023)
     -
 
     - **Fecha:** 08/02/2023 - 04/03/2023
     
-    - **Descripción:**
+    - **Descripción:** Se desarrolla una balanza para el pesaje de ganado bovino. La balanza cuenta con conectividad Bluetooth para la comunicación con una aplicación de celular. La aplicación permite visualizar la información y controlar la balanza. Además, la aplicación permite almacenar la información en la nube y generar reportes.
 
 > [!NOTE]
->
+> El hardware del dispositivo esta desarrollado en C++ usando `Arduino` como microcontrolador. La aplicación de celular esta desarrollada en `App Inventor 2`. La API esta desarrollada en C# con el framework `.NET Core`. Se utiliza `MySQL` como base de datos.
+
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - [Desarrollo de un modulo de kernel para Linux (2023)](https://github.com/francobottini99/USBSERIAL-LINUX_KERNEL_MODULE-2023.git)
     -
@@ -395,6 +421,9 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 > [!NOTE]
 > Desarrollado en Verilog. Se utiliza la placa de desarrollo `Basys 3`. Interfaz de usuario desarrollada en Python.
+
+> [!WARNING]
+> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 ## Publicaciones
 
