@@ -276,95 +276,107 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 ## Proyectos Destacados
 
-#### [Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)]()
+- [Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)]()
+    -
 
-- **Fecha:** 11/06/2015 - 10/12/2016
+    - **Fecha:** 11/06/2015 - 10/12/2016
 
-- **Descripción:** Implementación de un sistema de gestión para la venta de insumos informaticos. Permite llevar control de clientes, proveedores, productos, ventas, compras, etc.
-
-> [!NOTE]
-> Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
-
-#### [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)]()
-
-- **Fecha:** 02/01/2017 - 09/11/2017
-
-- **Descripción:** Implementación de un sistema de gestión para el manejo de un establecimiento ganadero. El sistema permite llevar un control de los animales, los lotes, los corrales, los empleados, los gastos, los ingresos, etc.
+    - **Descripción:** Implementación de un sistema de gestión para la venta de insumos informaticos. Permite llevar control de clientes, proveedores, productos, ventas, compras, etc.
 
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
-#### [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)]()
+- [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)]()
+    -
 
-- **Fecha:** 12/01/2018 - 12/10/2018
+    - **Fecha:** 02/01/2017 - 09/11/2017
 
-- **Descripción:** Segunda versión del sistema de gestión para el manejo de un establecimiento ganadero. El sistema permite llevar un control de los animales, los lotes, los corrales, los empleados, los gastos, los ingresos, etc. En este también se implementa un sistema de manejo por caravanas electrónicas.
+    - **Descripción:** Implementación de un sistema de gestión para el manejo de un establecimiento ganadero. El sistema permite llevar un control de los animales, los lotes, los corrales, los empleados, los gastos, los ingresos, etc.
+
+> [!NOTE]
+> Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
+
+- [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)]()
+    -
+
+    - **Fecha:** 12/01/2018 - 12/10/2018
+
+    - **Descripción:** Segunda versión del sistema de gestión para el manejo de un establecimiento ganadero. El sistema permite llevar un control de los animales, los lotes, los corrales, los empleados, los gastos, los ingresos, etc. En este también se implementa un sistema de manejo por caravanas electrónicas.
 
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El sistema de manejo por caravanas electrónicas se implementa utilizando `Arduino`.
 
-#### [Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)]()
+- [Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)]()
+    -
 
-**Fecha:** 09/04/2018 - 30/11/2018
+    - **Fecha:** 09/04/2018 - 30/11/2018
 
-**Descripción:** En este trabajo se desarrolla un sistema para el control de asistencia de alumnos por huella dactilar. El sistema permite llevar un registro de asistencia de los alumnos de una institución educativa. Se implementa un software para la gestión del sistema, en donde se pueden realizar distintas tareas como la carga de alumnos, la carga de huellas dactilares, la carga de materias, la carga de horarios, etc. Además, se implementa el hardware y el software necesario para la lectura de las huellas dactilares. Los lectores de huellas se conectan a una red local por medio de un puerto ethernet para la comunicación con el sistema de gestión. El sistema cuenta con soporte para trabajar con multiples lectores de huellas.
+    - **Descripción:** En este trabajo se desarrolla un sistema para el control de asistencia de alumnos por huella dactilar. El sistema permite llevar un registro de asistencia de los alumnos de una institución educativa. Se implementa un software para la gestión del sistema, en donde se pueden realizar distintas tareas como la carga de alumnos, la carga de huellas dactilares, la carga de materias, la carga de horarios, etc. Además, se implementa el hardware y el software necesario para la lectura de las huellas dactilares. Los lectores de huellas se conectan a una red local por medio de un puerto ethernet para la comunicación con el sistema de gestión. El sistema cuenta con soporte para trabajar con multiples lectores de huellas.
 
 > [!NOTE]
 > Desarrollado en C++, PHP y VB.NET. Se utiliza Arduino para el sistema de lectura de huellas dactilares. Se utiliza una base de datos `MySQL` para el almacenamiento de la información. Se utiliza `XAMPP` para el despliegue del servidor web y los scripts que permiten conectar el lector de huellas con la base de datos.
 
-#### [Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)]()
+- [Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)]()
+    -
 
-- **Fecha:** 05/04/2019 - 16/03/2021
+    - **Fecha:** 05/04/2019 - 16/03/2021
 
-- **Descripción:** Desarrollo de un sistema integral para la venta de agroinsumos. Permite llevar control de clientes, proveedores, productos, ventas, compras, etc. El sistema cuenta con una arquitectura cliente / servidor, el cliente esta implementado para windows y el servidor es una API REST.
+    - **Descripción:** Desarrollo de un sistema integral para la venta de agroinsumos. Permite llevar control de clientes, proveedores, productos, ventas, compras, etc. El sistema cuenta con una arquitectura cliente / servidor, el cliente esta implementado para windows y el servidor es una API REST.
 
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El despliegue del servidor se realiza en un servidor web con `IIS` y `Windows Server 2012 R2`.
 
-#### [Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)]()
+- [Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)]()
+    -
 
-- **Fecha:** 05/01/2022 - 30/03/2022
+    - **Fecha:** 05/01/2022 - 30/03/2022
 
-#### [Desarrollo de un sistema de gestión para gimnasios (2022)]()
+- [Desarrollo de un sistema de gestión para gimnasios (2022)]()
+    -
 
-- **Fecha:** 03/04/2022 - 20/06/2022
+    - **Fecha:** 03/04/2022 - 20/06/2022
 
-- **Descripción:** En este trabajo se desarrolla un sistema de gestión para gimnasios. El sistema permite llevar un control de los clientes, los planes que poseen, las clases a las que asisten, etc. El objetivo de este proyecto es diseñar e implementar un sistema completo utilizando buenas practicas de desarrollo de software como integración continua, pruebas unitarias, documentación, etc.
-
-> [!NOTE]
-> Desarrollado en C# utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
-
-#### [Desarrollo de un sistema de control de llenado para un tanque de agua rural #2 (2022)]()
-
-- **Fecha:** 05/07/2022 - 03/08/2022
-
-#### [Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)]()
-
-- **Fecha:** 18/01/2023 - 02/03/2023
-
-- **Descripción:** En este trabajo se desarrolla un sistema de gestión para la administración de una institución educativa. El sistema permite llevar un control de los alumnos, los profesores, las materias, las notas, etc.
+    - **Descripción:** En este trabajo se desarrolla un sistema de gestión para gimnasios. El sistema permite llevar un control de los clientes, los planes que poseen, las clases a las que asisten, etc. El objetivo de este proyecto es diseñar e implementar un sistema completo utilizando buenas practicas de desarrollo de software como integración continua, pruebas unitarias, documentación, etc.
 
 > [!NOTE]
 > Desarrollado en C# utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
-#### [Desarrollo de una balanza para el pesaje de ganado bovino (2023)]()
+- [Desarrollo de un sistema de control de llenado para un tanque de agua rural #2 (2022)]()
+    -
 
-- **Fecha:** 08/02/2023 - 04/03/2023
+    - **Fecha:** 05/07/2022 - 03/08/2022
 
-#### [Desarrollo de un modulo de kernel para Linux (2023)]()
+- [Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)]()
+    -
 
-- **Fecha:** 12/06/2023 - 23/06/2023
+    - **Fecha:** 18/01/2023 - 02/03/2023
 
-- **Descripción:** Implementación de un modulo para el kernel de Linux que permite la lectura de distintos sensores por medio de una interfaz de puerto serie. También se implementa una aplicación a nivel de usuario que hace uso del driver. El objetivo de este proyecto es familiarizarse con el desarrollo de módulos para el kernel de Linux.
+    - **Descripción:** En este trabajo se desarrolla un sistema de gestión para la administración de una institución educativa. El sistema permite llevar un control de los alumnos, los profesores, las materias, las notas, etc.
+
+> [!NOTE]
+> Desarrollado en C# utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
+
+- [Desarrollo de una balanza para el pesaje de ganado bovino (2023)]()
+    -
+
+    - **Fecha:** 08/02/2023 - 04/03/2023
+
+- [Desarrollo de un modulo de kernel para Linux (2023)]()
+    -
+
+    - **Fecha:** 12/06/2023 - 23/06/2023
+
+    - **Descripción:** Implementación de un modulo para el kernel de Linux que permite la lectura de distintos sensores por medio de una interfaz de puerto serie. También se implementa una aplicación a nivel de usuario que hace uso del driver. El objetivo de este proyecto es familiarizarse con el desarrollo de módulos para el kernel de Linux.
 
 > [!NOTE]
 > Desarrollado en C y en C# (cliente) utilizando las herramientas de GNU/Linux. Se utiliza una `Raspberry Pi 4` como sistema embebido con el sistema operativo `Raspbian` para realizar las pruebas. Los sensores utilizados son un `TFMINI` y un `DHT11`. Para la comunicación entre el sistema embebido y la computadora se utiliza un `CP210x`.
 
-#### [Desarrollo de un procesador MIPS simplificado para FPGA (2023)]()
+- [Desarrollo de un procesador MIPS simplificado para FPGA (2023)]()
+    -
 
-- **Fecha:** 13/11/2023 - 22/12/2023
+    - **Fecha:** 13/11/2023 - 22/12/2023
 
-- **Descripción:** En este trabajo se diseña e implementa un procesador MIPS simplificado. El objetivo de este proyecto es familiarizarse con la arquitectura de un procesador.
+    - **Descripción:** En este trabajo se diseña e implementa un procesador MIPS simplificado. El objetivo de este proyecto es familiarizarse con la arquitectura de un procesador.
 
 > [!NOTE]
 > Desarrollado en Verilog. Se utiliza la placa de desarrollo `Basys 3`. Interfaz de usuario desarrollada en Python.
