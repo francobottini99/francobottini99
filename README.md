@@ -361,12 +361,12 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
     - **Fecha:** 08/02/2023 - 04/03/2023
 
-- [Desarrollo de un modulo de kernel para Linux (2023)]()
+- [Desarrollo de un modulo de kernel para Linux (2023)](https://github.com/francobottini99/USBSERIAL-LINUX_KERNEL_MODULE-2023.git)
     -
 
     - **Fecha:** 12/06/2023 - 23/06/2023
 
-    - **Descripción:** Implementación de un modulo para el kernel de Linux que permite la lectura de distintos sensores por medio de una interfaz de puerto serie. También se implementa una aplicación a nivel de usuario que hace uso del driver. El objetivo de este proyecto es familiarizarse con el desarrollo de módulos para el kernel de Linux.
+    - **Descripción:** Implementación de un modulo para el kernel de Linux que permite la lectura de distintos sensores por medio de una interfaz de puerto serie. También se implementa una aplicación a nivel de usuario que hace uso del driver. El modulo del kernel se encarga de mapear y dar soporte a los sensores conectados por medio de un puente usb-serial, generando dispositivos en el directorio `/dev` que son fáciles de leer en aplicaciones de nivel de usuario por medio de operaciones con ficheros. 
 
 > [!NOTE]
 > Desarrollado en C y en C# (cliente) utilizando las herramientas de GNU/Linux. Se utiliza una `Raspberry Pi 4` como sistema embebido con el sistema operativo `Raspbian` para realizar las pruebas. Los sensores utilizados son un `TFMINI` y un `DHT11`. Para la comunicación entre el sistema embebido y la computadora se utiliza un `CP210x`.
