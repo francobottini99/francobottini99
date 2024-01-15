@@ -165,101 +165,112 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 ### Interesantes
 
-#### [Desarrollo de un sistema de comunicación entre microcontroladres en ASM (2021)](https://github.com/francobottini99/SIS-COMPICASM-2021.git)
+- [Desarrollo de un sistema de comunicación entre microcontroladres en ASM (2021)](https://github.com/francobottini99/SIS-COMPICASM-2021.git)
+    -
 
-- **Fecha:** 01/06/2021 - 25/06/2021
+    - **Fecha:** 01/06/2021 - 25/06/2021
 
-- **Descripción:** Este repositorio, escrito en lenguaje ensamblador, consiste en la implementación de un sistema de comunicación UART entre dos microcontroladores PIC16F887. Un microcontrolador actúa como emisor, mientras que el otro actúa como receptor. La comunicación se establece a través de transmisiones y recepciones de datos seriales, permitiendo la interacción entre ambos dispositivos. El objetivo de este proyecto es familiarizarse con el desarrollo en sistemas embebidos utilizando ASM.
+    - **Descripción:** Este repositorio, escrito en lenguaje ensamblador, consiste en la implementación de un sistema de comunicación UART entre dos microcontroladores PIC16F887. Un microcontrolador actúa como emisor, mientras que el otro actúa como receptor. La comunicación se establece a través de transmisiones y recepciones de datos seriales, permitiendo la interacción entre ambos dispositivos. El objetivo de este proyecto es familiarizarse con el desarrollo en sistemas embebidos utilizando ASM.
 
 > [!NOTE]
 > Desarrollado en ASM. Se utiliza el microcontrolador `PIC16F887` para el control del sistema. Se utiliza un teclado matricial `4x4` para la entrada de datos. Se implementan 4 displays de 7 segmentos multiplexado para la visualización de la información.
 
-#### [Desarrollo de un sistema de alimentación automático para mascotas (2022)](https://github.com/francobottini99/SIS-ALIMLPC-2022.git)
+- [Desarrollo de un sistema de alimentación automático para mascotas (2022)](https://github.com/francobottini99/SIS-ALIMLPC-2022.git)
+    -
 
-- **Fecha:** 22/10/2022 - 04/11/2022
+    - **Fecha:** 22/10/2022 - 04/11/2022
 
-- **Descripción:** Este repositorio consiste en el desarrollo de una estación de carga de alimento para mascotas, diseñada para su uso en el hogar. El dispositivo incorpora una celda de carga para medir el peso del recipiente de alimento y rellenarlo cuando el nivel caiga por debajo de 10 gramos, un sensor de nivel de agua para controlar la hidratación, y la capacidad de ser controlado a través de una aplicación móvil con conectividad Bluetooth.
+    - **Descripción:** Este repositorio consiste en el desarrollo de una estación de carga de alimento para mascotas, diseñada para su uso en el hogar. El dispositivo incorpora una celda de carga para medir el peso del recipiente de alimento y rellenarlo cuando el nivel caiga por debajo de 10 gramos, un sensor de nivel de agua para controlar la hidratación, y la capacidad de ser controlado a través de una aplicación móvil con conectividad Bluetooth.
 
 > [!NOTE]
 > Desarrollado en C. Se utiliza el microcontrolador `LPC1769` para el control del sistema. Se utiliza el sensor de nivel de agua `HW-038`, una celda de carga generica de hasta 20 Kg con un módulo conversor analógico-digital de 24 bits más puente wheatstone `HX711`. Se utiliza el módulo bluetooth `HC-05` para la comunicación con la aplicación de celular. Se utiliza el teclado matricial `4x4` para la configuración del sistema. Motor paso a paso `28BYJ-48` y driver de corriente `SBT0811`.
 
-#### [Desarrollo de una Shell simple para Linux #1 (2022)](https://github.com/francobottini99/LINUXSHELL1-2022.git)
+- [Desarrollo de una Shell simple para Linux #1 (2022)](https://github.com/francobottini99/LINUXSHELL1-2022.git)
+    -
 
-- **Fecha:** 16/09/2022 - 01/10/2022
+    - **Fecha:** 16/09/2022 - 01/10/2022
 
-- **Descripción:** Este proyecto implementa un intérprete de línea de comandos diseñado para ejecutarse en entornos GNU/Linux. El objetivo principal es proporcionar un shell interactivo con funcionalidades básicas y capacidad para ejecutar comandos internos, programas externos, y scripts en segundo plano.
-
-> [!NOTE]
-> Desarrollado en C utilizando las herramientas de GNU/Linux.
-
-#### [Desarrollo de una Shell simple para Linux #2 (2022)](https://github.com/francobottini99/LINUXSHELL2-2022.git)
-
-- **Fecha:** 04/11/2022 - 07/11/2022
-
-- **Descripción:** Este proyecto es una extensión del intérprete de línea de comandos MyShell. El objetivo principal de este proyecto es ampliar las funcionalidades de MyShell, incorporando el manejo de señales, tuberías (pipes) y redirección de entrada/salida.
+    - **Descripción:** Este proyecto implementa un intérprete de línea de comandos diseñado para ejecutarse en entornos GNU/Linux. El objetivo principal es proporcionar un shell interactivo con funcionalidades básicas y capacidad para ejecutar comandos internos, programas externos, y scripts en segundo plano.
 
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Desarrollo de un Sistema de comunicación cliente / servidor en C #1 (2023)](https://github.com/francobottini99/LINUXCLIENTSERVER1-2023.git)
+- [Desarrollo de una Shell simple para Linux #2 (2022)](https://github.com/francobottini99/LINUXSHELL2-2022.git)
+    -
 
-- **Fecha:** 17/03/2023 - 31/03/2023
+    - **Fecha:** 04/11/2022 - 07/11/2022
 
-- **Descripción:** Se implementa un sistema de comunicación cliente / servidor utilizando distintos mecanismos de IPC. Este proyecto tieme como objetivo diseñar e implementar un sistema en donde multiples clientes envian mensajes a un mismo servidor a traves de distintos mecanismos IPC (*pipe*, *FIFO*, *message queue*, etc.). 
-
-> [!NOTE]
-> Desarrollado en C utilizando las herramientas de GNU/Linux.
-
-#### [Desarrollo de un Sistema de comunicación cliente / servidor en C #2 (2023)](https://github.com/francobottini99/LINUXCLIENTSERVER2-2023.git)
-
-- **Fecha:** 01/04/2023 - 25/04/2023
-
-- **Descripción:** Se implementa un sistema de comunicación cliente / servidor utilizando sockets. Este proyecto tieme como objetivo diseñar e implementar un sistema en donde multiples clientes envian mensajes a un mismo servidor a traves de distintos tipos de scokets (*IPV4*, *IPV6*, *UNIX*, etc.).
+    - **Descripción:** Este proyecto es una extensión del intérprete de línea de comandos MyShell. El objetivo principal de este proyecto es ampliar las funcionalidades de MyShell, incorporando el manejo de señales, tuberías (pipes) y redirección de entrada/salida.
 
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux.
 
-#### [Desarrollo de un programa simple de procesamiento de imágenes (2023)](https://github.com/francobottini99/PARALLELPROGRAM-2023.git)
+- [Desarrollo de un Sistema de comunicación cliente / servidor en C #1 (2023)](https://github.com/francobottini99/LINUXCLIENTSERVER1-2023.git)
+    -
 
-- **Fecha:** 09/05/2023 - 26/05/2023
+    - **Fecha:** 17/03/2023 - 31/03/2023
 
-- **Descripción:** Se implementa un programa básico de procesamiento de imágenes. Este proyecto tieme como objetivo diseñar e implementar un programa que permita aplicar un filtro a una imagen en formato `GeoTiff` de entrada utilizando tecnicas de programación paralela.
+    - **Descripción:** Se implementa un sistema de comunicación cliente / servidor utilizando distintos mecanismos de IPC. Este proyecto tieme como objetivo diseñar e implementar un sistema en donde multiples clientes envian mensajes a un mismo servidor a traves de distintos mecanismos IPC (*pipe*, *FIFO*, *message queue*, etc.). 
+
+> [!NOTE]
+> Desarrollado en C utilizando las herramientas de GNU/Linux.
+
+- [Desarrollo de un Sistema de comunicación cliente / servidor en C #2 (2023)](https://github.com/francobottini99/LINUXCLIENTSERVER2-2023.git)
+    -
+
+    - **Fecha:** 01/04/2023 - 25/04/2023
+
+    - **Descripción:** Se implementa un sistema de comunicación cliente / servidor utilizando sockets. Este proyecto tieme como objetivo diseñar e implementar un sistema en donde multiples clientes envian mensajes a un mismo servidor a traves de distintos tipos de scokets (*IPV4*, *IPV6*, *UNIX*, etc.).
+
+> [!NOTE]
+> Desarrollado en C utilizando las herramientas de GNU/Linux.
+
+- [Desarrollo de un programa simple de procesamiento de imágenes (2023)](https://github.com/francobottini99/PARALLELPROGRAM-2023.git)
+    -
+
+    - **Fecha:** 09/05/2023 - 26/05/2023
+
+    - **Descripción:** Se implementa un programa básico de procesamiento de imágenes. Este proyecto tieme como objetivo diseñar e implementar un programa que permita aplicar un filtro a una imagen en formato `GeoTiff` de entrada utilizando tecnicas de programación paralela.
 
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux. Se hace uso de la librearía `OpenMPI` para programación paralela. Se utiliza la libreria `GDAL` para la manipulación de imágenes `GeoTiff`.
 
-#### [Desarrollo de una API REST simple en C (2023)](https://github.com/francobottini99/APIRESTC-2023.git)
+- [Desarrollo de una API REST simple en C (2023)](https://github.com/francobottini99/APIRESTC-2023.git)
+    -
 
-- **Fecha:** 25/05/2023 - 27/05/2023
+    - **Fecha:** 25/05/2023 - 27/05/2023
 
-- **Descripción:** Servidor web básico que permite incrementar un contador y ver su estado a través de dos *endpoints*. Este proyecto tieme como objetivo diseñar e implementar una API RESTful básica en C y un cliente capaz de consumirla.
+    - **Descripción:** Servidor web básico que permite incrementar un contador y ver su estado a través de dos *endpoints*. Este proyecto tieme como objetivo diseñar e implementar una API RESTful básica en C y un cliente capaz de consumirla.
 
 > [!NOTE]
 > Desarrollado en C utilizando las herramientas de GNU/Linux. Se hace uso del *framework* `Ulfius` para la implementación del servidor web.
 
-#### [Desarrollo de una API REST simple en Go (2023)](https://github.com/francobottini99/APIRESTGO-2023.git)
+- [Desarrollo de una API REST simple en Go (2023)](https://github.com/francobottini99/APIRESTGO-2023.git)
+    -
 
-- **Fecha:** 26/05/2023 - 08/06/2023
+    - **Fecha:** 26/05/2023 - 08/06/2023
 
-- **Descripción:** Implementa dos servicios web básicos uno para el manejo de usuarios y otro para el registro de procesos. Además, se generan los arhcivos y configuraciones necesarias para correr sobre linux con Systemd y generar un servidor web con Nginx. Este proyecto tieme como objetivo diseñar e implementar una API REST en Go y configurar un servidor web con Nginx.
+    - **Descripción:** Implementa dos servicios web básicos uno para el manejo de usuarios y otro para el registro de procesos. Además, se generan los arhcivos y configuraciones necesarias para correr sobre linux con Systemd y generar un servidor web con Nginx. Este proyecto tieme como objetivo diseñar e implementar una API REST en Go y configurar un servidor web con Nginx.
 
 > [!NOTE]
 > Desarrollado en Go utilizando las herramientas de GNU/Linux. Se hace uso del *framework* `Gin` para la implementación del servidor web. Se utiliza `Nginx` como servidor web y `Systemd` para la configuración del servicio. Además, se implementa un servidor DNS utilizando `Bind9`. Uso de `SQLite` como base de datos.
 
-#### [Desarrollo de una API REST simple en Rust (2023)](https://github.com/francobottini99/APIRESTRUST-2023.git)
+- [Desarrollo de una API REST simple en Rust (2023)](https://github.com/francobottini99/APIRESTRUST-2023.git)
+    -
 
-- **Fecha:** 06/12/2023 - 15/12/2023
+    - **Fecha:** 06/12/2023 - 15/12/2023
 
-- **Descripción:** En este proyecto se desarrolló una REST API para el manejo de un plan de comidas. Este proyecto tieme como objetivo diseñar e implementar una API REST en Rust.
+    - **Descripción:** En este proyecto se desarrolló una REST API para el manejo de un plan de comidas. Este proyecto tieme como objetivo diseñar e implementar una API REST en Rust.
 
 > [!NOTE]
 > Desarrollado en Rust. Se hace uso del *framework* `Rocket` para la implementación del servidor web. Uso de `MySQL` como base de datos.
 
-#### [Desarrollo de un sistema de sensado utilizando RTOS (2024)](https://github.com/francobottini99/SIS-TEMPRTOS-2024.git)
+- [Desarrollo de un sistema de sensado utilizando RTOS (2024)](https://github.com/francobottini99/SIS-TEMPRTOS-2024.git)
+    -
 
-- **Fecha:** 02/01/2024 - 10/01/2024
+    - **Fecha:** 02/01/2024 - 10/01/2024
 
-- **Descripción:** Aplicación de un sistema operativo de tiempo real en un sistema embebido. Simulación de un sistema de control de temperatura con un filtro pasa bajos. Comunicación UART con una computadora para visualizar el estado del sistema y cambiar el coeficiente de filtrado. El proyecto tiene como objetivo familiarizarse con el uso de un sistema operativo de tiempo real en los sistemas embebidos.
+    - **Descripción:** Aplicación de un sistema operativo de tiempo real en un sistema embebido. Simulación de un sistema de control de temperatura con un filtro pasa bajos. Comunicación UART con una computadora para visualizar el estado del sistema y cambiar el coeficiente de filtrado. El proyecto tiene como objetivo familiarizarse con el uso de un sistema operativo de tiempo real en los sistemas embebidos.
 
 > [!NOTE]
 > Desarrollado en C. Se utiliza el sistema operativo de tiempo real `FreeRTOS`. Se utiliza el simulador `QEMU` para la simulación del sistema embebido. Se emula el sistema embebido `Stellaris LM3S811`.
