@@ -324,14 +324,19 @@ En este documento, comparto una selección de algunos de los proyectos más dest
     - **Descripción:** Desarrollo de un sistema integral para la venta de agroinsumos. Permite llevar control de clientes, proveedores, productos, ventas, compras, etc. El sistema cuenta con una arquitectura cliente / servidor, el cliente esta implementado para windows y el servidor es una API REST.
 
 > [!NOTE]
-> Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El despliegue del servidor se realiza en un servidor web con `IIS` y `Windows Server 2012 R2`.
+> Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El despliegue del servidor se realiza en un servidor web con `IIS`.
 
 - Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)
     -
 
     - **Fecha:** 05/01/2022 - 30/03/2022
 
-- [Desarrollo de un sistema de gestión para gimnasios (2022)]()
+    - **Descripción:** Sistema automatizado de reabastecimiento de agua en producciones ganaderas de engorde a corral. El sistema controla en tiempo real el nivel de agua del tanque de abastecimiento de la producción, y envía en forma remota información al productor sobre el estado del mismo, éste recibe dicha información en una App de celular, y podrá actuar en consecuencia. Si el funcionamiento es normal, el sistema mantiene el nivel de agua dentro de los límites que establezcamos cómo parámetro, encendiendo y apagando la bomba alimentadora cuando los niveles llegan a dichos limites. Además el sistema cuenta con muchos mecanismos de seguridad y alertas  para salvaguardar la integridad de la bomba en caso de fallos.  Cada acción que implementa el sistema se informa, mediante conectividad a internet a la una aplicación Android para mantener al productor al tanto de todo lo que sucede.
+
+> [!NOTE]
+> El sistema esta dividido en dos dispositivos, el primero encargado del control de la bomba y el segundo cumple la función de gateway para subir la información a la nube. El software de ambos dispositivos esta desarrollado en C++ y se comunican entre ellos por medio de modulos de radiofrecuencia. El gateway consume una API para subir la información a la nube. El productor puede visualizar la información en una aplicación de celular desarrollada en Android. La información se almacena en una base de datos `MySQL` y se utiliza `IIS` para el despliegue del servidor web.
+
+- [Desarrollo de un sistema de gestión para gimnasios (2022)](https://github.com/francobottini99/SIS-GYMCORE-2022.git)
     -
 
     - **Fecha:** 03/04/2022 - 20/06/2022
@@ -345,6 +350,11 @@ En este documento, comparto una selección de algunos de los proyectos más dest
     -
 
     - **Fecha:** 05/07/2022 - 03/08/2022
+
+    - **Descripción:**
+
+> [!NOTE]
+>
 
 - Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)
     -
@@ -360,6 +370,11 @@ En este documento, comparto una selección de algunos de los proyectos más dest
     -
 
     - **Fecha:** 08/02/2023 - 04/03/2023
+    
+    - **Descripción:**
+
+> [!NOTE]
+>
 
 - [Desarrollo de un modulo de kernel para Linux (2023)](https://github.com/francobottini99/USBSERIAL-LINUX_KERNEL_MODULE-2023.git)
     -
