@@ -6,44 +6,43 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 
 ## Índice
 
-- [Proyectos](#proyectos)
-    - [Simples](#simples)
-        - [Práctica de algoritmos y estructura de datos en C++ (2021)](#práctica-de-algoritmos-y-estructura-de-datos-en-c-2021)
-        - [Práctica con arboles n-arios en C++ (2021)](#práctica-con-arboles-n-arios-en-c-2021)
-        - [Práctica con grafos en C++ (2021)](#práctica-con-grafos-en-c-2021)
-        - [Práctica de programación concurrente en Java (2022)](#práctica-de-programación-concurrente-en-java-2022)
-        - [Práctica con el lenguaje C y las herramientas de GNU/Linux #1 (2022)](#práctica-con-el-lenguaje-c-y-las-herramientas-de-gnulinux-1-2022)
-        - [Práctica con el lenguaje C y las herramientas de GNU/Linux #2 (2022)](#práctica-con-el-lenguaje-c-y-las-herramientas-de-gnulinux-2-2022)
-        - [Práctica con el lenguaje C y las herramientas de GNU/Linux #3 (2022)](#práctica-con-el-lenguaje-c-y-las-herramientas-de-gnulinux-3-2022)
-        - [Práctica de optimización de programas en C (2023)](#práctica-de-optimización-de-programas-en-c-2023)
-        - [Práctica de interfaz entre C y ASM (2023)](#práctica-de-interfaz-entre-c-y-asm-2023)
-        - [Práctica de programación funcional en C++ (2023)](#práctica-de-programación-funcional-en-c-2023)
-        - [Práctica de programación orientada a objetos en Kotlin (2023)](#práctica-de-programación-orientada-a-objetos-en-kotlin-2023)
-    - [Interesantes](#interesantes)
-        - [Desarrollo de un sistema de comunicación entre microcontroladres en ASM (2021)](#desarrollo-de-un-sistema-de-comunicación-entre-microcontroladres-en-asm-2021)
-        - [Desarrollo de un sistema de alimentación automático para mascotas (2022)](#desarrollo-de-un-sistema-de-alimentación-automático-para-mascotas-2022)
-        - [Desarrollo de una Shell simple para Linux #1 (2022)](#desarrollo-de-una-shell-simple-para-linux-1-2022)
-        - [Desarrollo de una Shell simple para Linux #2 (2022)](#desarrollo-de-una-shell-simple-para-linux-2-2022)
-        - [Desarrollo de un Sistema de comunicación cliente / servidor en C #1 (2023)](#desarrollo-de-un-sistema-de-comunicación-cliente--servidor-en-c-1-2023)
-        - [Desarrollo de un Sistema de comunicación cliente / servidor en C #2 (2023)](#desarrollo-de-un-sistema-de-comunicación-cliente--servidor-en-c-2-2023)
-        - [Desarrollo de un programa simple de procesamiento de imágenes (2023)](#desarrollo-de-un-programa-simple-de-procesamiento-de-imágenes-2023)
-        - [Desarrollo de una API REST simple en C (2023)](#desarrollo-de-una-api-rest-simple-en-c-2023)
-        - [Desarrollo de una API REST simple en Go (2023)](#desarrollo-de-una-api-rest-simple-en-go-2023)
-        - [Desarrollo de una API REST simple en Rust (2023)](#desarrollo-de-una-api-rest-simple-en-rust-2023)
-        - [Desarrollo de un sistema de sensado utilizando RTOS (2024)](#desarrollo-de-un-sistema-de-sensado-utilizando-rtos-2024)
-    - [Destacados](#destacados)
-        - [Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)](#desarrollo-de-un-sistema-de-gestión-para-la-venta-de-insumos-informaticos-2015---2016)
-        - [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)](#desarrollo-de-un-sistema-de-gestión-para-el-manejo-de-un-establecimiento-ganadero-1-2017)
-        - [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)](#desarrollo-de-un-sistema-de-gestión-para-el-manejo-de-un-establecimiento-ganadero-2-2018)
-        - [Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)](#desarrollo-de-un-sistema-para-el-control-de-asistencia-de-alumnos-por-huella-dactilar-2018)
-        - [Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)](#desarrollo-de-un-sistema-de-gestión-para-la-venta-de-agroinsumos-2019---2021)
-        - [Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)](#desarrollo-de-un-sistema-de-control-de-llenado-para-un-tanque-de-agua-rural-1-2022)
-        - [Desarrollo de un sistema de gestión para gimnasios (2022)](#desarrollo-de-un-sistema-de-gestión-para-gimnasios-2022)
-        - [Desarrollo de un sistema de control de llenado para un tanque de agua rural #2 (2022)](#desarrollo-de-un-sistema-de-control-de-llenado-para-un-tanque-de-agua-rural-2-2022)
-        - [Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)](#desarrollo-de-un-sistema-de-gestión-para-la-administración-de-una-institución-educativa-2023)
-        - [Desarrollo de una balanza para el pesaje de ganado bovino (2023)](#desarrollo-de-una-balanza-para-el-pesaje-de-ganado-bovino-2023)
-        - [Desarrollo de un modulo de kernel para Linux (2023)](#desarrollo-de-un-modulo-de-kernel-para-linux-2023)
-        - [Desarrollo de un procesador MIPS simplificado para FPGA (2023)](#desarrollo-de-un-procesador-mips-simplificado-para-fpga-2023)
+- [Proyectos Simples](#proyectos-simples)
+    - [Práctica de algoritmos y estructura de datos en C++ (2021)](#práctica-de-algoritmos-y-estructura-de-datos-en-c-2021)
+    - [Práctica con arboles n-arios en C++ (2021)](#práctica-con-arboles-n-arios-en-c-2021)
+    - [Práctica con grafos en C++ (2021)](#práctica-con-grafos-en-c-2021)
+    - [Práctica de programación concurrente en Java (2022)](#práctica-de-programación-concurrente-en-java-2022)
+    - [Práctica con el lenguaje C y las herramientas de GNU/Linux #1 (2022)](#práctica-con-el-lenguaje-c-y-las-herramientas-de-gnulinux-1-2022)
+    - [Práctica con el lenguaje C y las herramientas de GNU/Linux #2 (2022)](#práctica-con-el-lenguaje-c-y-las-herramientas-de-gnulinux-2-2022)
+    - [Práctica con el lenguaje C y las herramientas de GNU/Linux #3 (2022)](#práctica-con-el-lenguaje-c-y-las-herramientas-de-gnulinux-3-2022)
+    - [Práctica de optimización de programas en C (2023)](#práctica-de-optimización-de-programas-en-c-2023)
+    - [Práctica de interfaz entre C y ASM (2023)](#práctica-de-interfaz-entre-c-y-asm-2023)
+    - [Práctica de programación funcional en C++ (2023)](#práctica-de-programación-funcional-en-c-2023)
+    - [Práctica de programación orientada a objetos en Kotlin (2023)](#práctica-de-programación-orientada-a-objetos-en-kotlin-2023)
+- [Proyectos Interesantes](#proyectos-interesantes)
+    - [Desarrollo de un sistema de comunicación entre microcontroladres en ASM (2021)](#desarrollo-de-un-sistema-de-comunicación-entre-microcontroladres-en-asm-2021)
+    - [Desarrollo de un sistema de alimentación automático para mascotas (2022)](#desarrollo-de-un-sistema-de-alimentación-automático-para-mascotas-2022)
+    - [Desarrollo de una Shell simple para Linux #1 (2022)](#desarrollo-de-una-shell-simple-para-linux-1-2022)
+    - [Desarrollo de una Shell simple para Linux #2 (2022)](#desarrollo-de-una-shell-simple-para-linux-2-2022)
+    - [Desarrollo de un Sistema de comunicación cliente / servidor en C #1 (2023)](#desarrollo-de-un-sistema-de-comunicación-cliente--servidor-en-c-1-2023)
+    - [Desarrollo de un Sistema de comunicación cliente / servidor en C #2 (2023)](#desarrollo-de-un-sistema-de-comunicación-cliente--servidor-en-c-2-2023)
+    - [Desarrollo de un programa simple de procesamiento de imágenes (2023)](#desarrollo-de-un-programa-simple-de-procesamiento-de-imágenes-2023)
+    - [Desarrollo de una API REST simple en C (2023)](#desarrollo-de-una-api-rest-simple-en-c-2023)
+    - [Desarrollo de una API REST simple en Go (2023)](#desarrollo-de-una-api-rest-simple-en-go-2023)
+    - [Desarrollo de una API REST simple en Rust (2023)](#desarrollo-de-una-api-rest-simple-en-rust-2023)
+    - [Desarrollo de un sistema de sensado utilizando RTOS (2024)](#desarrollo-de-un-sistema-de-sensado-utilizando-rtos-2024)
+- [Proyectos Destacados](#proyectos-destacados)
+    - [Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)](#desarrollo-de-un-sistema-de-gestión-para-la-venta-de-insumos-informaticos-2015---2016)
+    - [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)](#desarrollo-de-un-sistema-de-gestión-para-el-manejo-de-un-establecimiento-ganadero-1-2017)
+    - [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)](#desarrollo-de-un-sistema-de-gestión-para-el-manejo-de-un-establecimiento-ganadero-2-2018)
+    - [Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)](#desarrollo-de-un-sistema-para-el-control-de-asistencia-de-alumnos-por-huella-dactilar-2018)
+    - [Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)](#desarrollo-de-un-sistema-de-gestión-para-la-venta-de-agroinsumos-2019---2021)
+    - [Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)](#desarrollo-de-un-sistema-de-control-de-llenado-para-un-tanque-de-agua-rural-1-2022)
+    - [Desarrollo de un sistema de gestión para gimnasios (2022)](#desarrollo-de-un-sistema-de-gestión-para-gimnasios-2022)
+    - [Desarrollo de un sistema de control de llenado para un tanque de agua rural #2 (2022)](#desarrollo-de-un-sistema-de-control-de-llenado-para-un-tanque-de-agua-rural-2-2022)
+    - [Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)](#desarrollo-de-un-sistema-de-gestión-para-la-administración-de-una-institución-educativa-2023)
+    - [Desarrollo de una balanza para el pesaje de ganado bovino (2023)](#desarrollo-de-una-balanza-para-el-pesaje-de-ganado-bovino-2023)
+    - [Desarrollo de un modulo de kernel para Linux (2023)](#desarrollo-de-un-modulo-de-kernel-para-linux-2023)
+    - [Desarrollo de un procesador MIPS simplificado para FPGA (2023)](#desarrollo-de-un-procesador-mips-simplificado-para-fpga-2023)
 - [Publicaciones](#publicaciones)
     - [Estudio del impacto de ChatGPT en la enseñanza de materias introductorias a la programación (2023)](#estudio-del-impacto-de-chatgpt-en-la-enseñanza-de-materias-introductorias-a-la-programación-2023)
 - [Otros Ensayos](#otros-ensayos)
@@ -163,7 +162,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en Kotlin utilizando paradigma de programación orientada a objetos.
 
-### Interesantes
+## Proyectos Interesantes
 
 - [Desarrollo de un sistema de comunicación entre microcontroladres en ASM (2021)](https://github.com/francobottini99/SIS-COMPICASM-2021.git)
     -
@@ -275,7 +274,7 @@ En este documento, comparto una selección de algunos de los proyectos más dest
 > [!NOTE]
 > Desarrollado en C. Se utiliza el sistema operativo de tiempo real `FreeRTOS`. Se utiliza el simulador `QEMU` para la simulación del sistema embebido. Se emula el sistema embebido `Stellaris LM3S811`.
 
-### Destacados
+## Proyectos Destacados
 
 #### [Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)]()
 
