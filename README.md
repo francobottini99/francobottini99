@@ -1,8 +1,8 @@
-# Portfolio
+# ¡Hola! Soy Franco Nicolás Bottini
 
-¡Hola! Soy Franco Nicolás Bottini, un estudiante apasionado de Ingeniería en Computación, a punto de concluir mi carrera con una sólida experiencia en el mundo de la tecnología y el desarrollo de software. Desde temprana edad, me sumergí en este fascinante universo, construyendo una amplia gama de proyectos que abarcan lo personal, profesional y académico.
+Estudiante apasionado de Ingeniería en Computación, a punto de concluir mi carrera con una sólida experiencia en el mundo de la tecnología y el desarrollo de software. Desde temprana edad, me sumergí en este fascinante universo, construyendo una amplia gama de proyectos que abarcan lo personal, profesional y académico.
 
-En este documento, comparto una selección de algunos de los proyectos más destacados en los que he trabajado a lo largo de mi trayectoria.
+En este documento, comparto una selección de algunos de los proyectos en los que he trabajado a lo largo de mi trayectoria.
 
 ## Índice
 
