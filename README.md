@@ -96,7 +96,7 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 > [!WARNING]
 > Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
-- Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)
+- [Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)](https://github.com/francobottini99/SIS-SIA-2018.git)
     -
 
     - **Fecha:** 09/04/2018 - 30/11/2018
@@ -104,10 +104,7 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
     - **Descripción:** En este trabajo se desarrolla un sistema para el control de asistencia de alumnos por huella dactilar. El sistema permite llevar un registro de asistencia de los alumnos de una institución educativa. Se implementa un software para la gestión del sistema, en donde se pueden realizar distintas tareas como la carga de alumnos, la carga de huellas dactilares, la carga de materias, la carga de horarios, etc. Además, se implementa el hardware y el software necesario para la lectura de las huellas dactilares. Los lectores de huellas se conectan a una red local por medio de un puerto ethernet para la comunicación con el sistema de gestión. El sistema cuenta con soporte para trabajar con multiples lectores de huellas.
 
 > [!NOTE]
-> Desarrollado en C++, PHP y VB.NET. Se utiliza Arduino para el sistema de lectura de huellas dactilares. Se utiliza una base de datos `MySQL` para el almacenamiento de la información. Se utiliza `XAMPP` para el despliegue del servidor web y los scripts que permiten conectar el lector de huellas con la base de datos.
-
-> [!WARNING]
-> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
+> Desarrollado en C++, PHP y VB.NET. Se utiliza `Arduino` para el sistema de lectura de huellas dactilares. Se utiliza una base de datos `MySQL` para el almacenamiento de la información. Se utiliza `XAMPP` para el despliegue del servidor web y los scripts que permiten conectar el lector de huellas con la base de datos.
 
 - Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)
     -
