@@ -125,6 +125,7 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 
 > [!NOTE]
 > El sistema esta dividido en dos dispositivos, el primero encargado del control de la bomba y el segundo cumple la función de recibir SMS de control y enviar SMS de notificación del sistema. El software de ambos dispositivos esta desarrollado en C++ y se comunican entre ellos por medio de modulos de radiofrecuencia. 
+
 > [!WARNING]
 > Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
