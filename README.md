@@ -106,18 +106,15 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 > [!NOTE]
 > Desarrollado en C++, PHP y VB.NET. Se utiliza `Arduino` para el sistema de lectura de huellas dactilares. Se utiliza una base de datos `MySQL` para el almacenamiento de la información. Se utiliza `XAMPP` para el despliegue del servidor web y los scripts que permiten conectar el lector de huellas con la base de datos.
 
-- Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)
+- [Desarrollo de un sistema de gestión para la venta de agroinsumos (2019 - 2021)](https://github.com/francobottini99/SIS-SIGEVA-2019.git)
     -
 
     - **Fecha:** 05/04/2019 - 16/03/2021
 
-    - **Descripción:** Desarrollo de un sistema integral para la venta de agroinsumos. Permite llevar control de clientes, proveedores, productos, ventas, compras, etc. El sistema cuenta con una arquitectura cliente / servidor, el cliente esta implementado para windows y el servidor es una API REST.
+    - **Descripción:** Este proyecto implementa un sistema de gestión para la venta de agroinsumos. Este sistema es una herramienta integral diseñada para facilitar la administración eficiente de la venta de productos agrícolas. Facilita la gestión de los clientes, productos, proveedores, ventas, compras, etc. Cuenta con facturación electrónica **AFIP** y permite la generación de reportes y estadísticas. El sistema cuenta con arquitecura cliente-servidor. El cliente se implementa para Windows y el servidor es una API REST.
 
 > [!NOTE]
-> Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos. El despliegue del servidor se realiza en un servidor web con `IIS`.
-
-> [!WARNING]
-> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
+> Desarrollado en VB.NET utilizando el framework `.NET Framework` para el cliente y `ASP.NET` para el servidor. Se utiliza `MySQL` como base de datos. El despliegue del servidor se realiza en `IIS`.
 
 - Desarrollo de un sistema de control de llenado para un tanque de agua rural #1 (2022)
     -
