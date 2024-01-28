@@ -12,7 +12,7 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 ## Índice
 
 - [Proyectos Destacados](#proyectos-destacados)
-    - [Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)](#desarrollo-de-un-sistema-de-gestión-para-la-venta-de-insumos-informaticos-2015---2016)
+    - [Desarrollo de un sistema de gestión para la venta de insumos informáticos (2015 - 2016)](#desarrollo-de-un-sistema-de-gestión-para-la-venta-de-insumos-informáticos-2015---2016)
     - [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)](#desarrollo-de-un-sistema-de-gestión-para-el-manejo-de-un-establecimiento-ganadero-1-2017)
     - [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)](#desarrollo-de-un-sistema-de-gestión-para-el-manejo-de-un-establecimiento-ganadero-2-2018)
     - [Desarrollo de un sistema para el control de asistencia de alumnos por huella dactilar (2018)](#desarrollo-de-un-sistema-para-el-control-de-asistencia-de-alumnos-por-huella-dactilar-2018)
@@ -57,18 +57,15 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 
 ## Proyectos Destacados
 
-- Desarrollo de un sistema de gestión para la venta de insumos informaticos (2015 - 2016)
+- [Desarrollo de un sistema de gestión para la venta de insumos informáticos (2015 - 2016)](https://github.com/francobottini99/SIS-INFBYB-2015.git)
     -
 
     - **Fecha:** 11/06/2015 - 10/12/2016
 
-    - **Descripción:** Implementación de un sistema de gestión para la venta de insumos informaticos. Permite llevar control de clientes, proveedores, productos, ventas, compras, etc.
+    - **Descripción:** Este proyecto implementa un sistema de gestión para la venta de insumos informáticos. Facilita la gestión de los clientes, productos, proveedores, ventas, compras, etc. Cuenta con facturación electrónica **AFIP** y permite la generación de reportes y estadísticas.
 
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
-
-> [!WARNING]
-> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)
     -
