@@ -67,18 +67,15 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
 
-- Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)
+- [Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #1 (2017)](https://github.com/francobottini99/SIS-SIEGAN1-2017.git)
     -
 
     - **Fecha:** 02/01/2017 - 09/11/2017
 
-    - **Descripción:** Implementación de un sistema de gestión para el manejo de un establecimiento ganadero. El sistema permite llevar un control de los animales, los lotes, los corrales, los empleados, los gastos, los ingresos, etc.
+    - **Descripción:** Este proyecto implementa un sistema de gestión para el manejo de un establecimiento ganadero. El sistema permite la gestión de los animales, los campos, los corrales, los empleados, los proveedores, los clientes, los gastos, los ingresos, los tratamientos, las vacunas, los medicamentos, los alimentos, los productos, los movimientos, los pesos, las muertes, etc.
 
 > [!NOTE]
 > Desarrollado en VB.NET utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
-
-> [!WARNING]
-> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - Desarrollo de un sistema de gestión para el manejo de un establecimiento ganadero #2 (2018)
     -
