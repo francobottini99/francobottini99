@@ -7,7 +7,6 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 ## Contacto
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franco-bottini-b727b2261)
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bottinifranco99@gmail.com)
 
 ## Lenguajes
