@@ -4,14 +4,17 @@ Soy Franco Nicolás Bottini un estudiante apasionado de Ingeniería en Computaci
 
 En este documento, comparto una selección de algunos de los proyectos en los que he trabajado a lo largo de mi trayectoria.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francobottini99&langs_count=10&hide=JavaScript,SystemVerilog,CMake,Makefile&theme=dark" alt="Top Langs">
-</p>
-
 ## Contacto
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franco-bottini-b727b2261)
+
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bottinifranco99@gmail.com)
+
+## Lenguajes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francobottini99&langs_count=10&hide=JavaScript,SystemVerilog,CMake,Makefile&theme=dark" alt="Top Langs">
+</p>
 
 ## Índice
 
