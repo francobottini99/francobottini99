@@ -152,7 +152,7 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 > [!WARNING]
 > Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
-- Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)
+- [Desarrollo de un sistema de gestión para la administración de una institución educativa (2023)](https://github.com/francobottini99/SIS-SISEDU-2023.git)
     -
 
     - **Fecha:** 18/01/2023 - 02/03/2023
@@ -161,9 +161,6 @@ En este documento, comparto una selección de algunos de los proyectos en los qu
 
 > [!NOTE]
 > Desarrollado en C# utilizando el framework `.NET Framework`. Se utiliza `MySQL` como base de datos.
-
-> [!WARNING]
-> Proximamente voy a estar subiendo el proyecto a un repositorio y dejando el enlace en esta sección.
 
 - Desarrollo de una balanza para el pesaje de ganado bovino (2023)
     -
