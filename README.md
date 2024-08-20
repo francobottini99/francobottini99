@@ -11,8 +11,8 @@ https://github.com/francobottini99/PORTFOLIO
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franco-bottini-b727b2261)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:bottinifranco99@gmail.com)
 
-## Lenguajes
+<!-- ## Lenguajes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francobottini99&langs_count=10&hide=JavaScript,SystemVerilog,CMake,Makefile&theme=dark&layout=compact" alt="Top Langs">
-</p>
+</p> -->
