@@ -1,10 +1,10 @@
-# ¡Hola! 👋
+# Hello! 👋
 
-Soy Franco Nicolás Bottini un estudiante apasionado de Ingeniería en Computación a punto de concluir mi carrera con una sólida formación académica y experiencia en la conceptualización y desarrollo de soluciones tecnológicas. Desde temprana edad, me sumergí en este fascinante universo, construyendo una amplia gama de proyectos que abarcan lo personal, profesional y académico.
+I am Franco Nicolás Bottini, a passionate Computer Engineering student about to finish my degree with a solid academic background and experience in the conceptualization and development of technological solutions. From an early age, I immersed myself in this fascinating universe, building a wide range of projects that span personal, professional and academic aspects.
 
 ## Portfolio
 
-https://github.com/francobottini99/PORTFOLIO
+https://github.com/francobottini99/portfolio
 
 ## Contacto
 
