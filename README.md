@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am Franco Nicolás Bottini, a passionate Computer Engineering student about to finish my degree with a solid academic background and experience in the conceptualization and development of technological solutions. From an early age, I immersed myself in this fascinating universe, building a wide range of projects that span personal, professional and academic aspects.
+I am Franco Nicolás Bottini, a passionate Computer Engineer with a solid academic background and experience in the conceptualization and development of technological solutions. From an early age, I immersed myself in this fascinating universe, building a wide range of projects that span personal, professional and academic aspects.
 
 ## Portfolio
 
